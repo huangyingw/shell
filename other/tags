@@ -1,0 +1,22 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+ERRTRAP	err_trap.sh	/^ERRTRAP()$/;"	f
+ask_to_repeat	install_flash_player_9_linux/flashplayer-installer	/^ask_to_repeat () {$/;"	f
+check_browser_dir	install_flash_player_9_linux/flashplayer-installer	/^check_browser_dir () {$/;"	f
+check_glibc	install_flash_player_9_linux/flashplayer-installer	/^check_glibc () {$/;"	f
+check_plugins_dir	install_flash_player_9_linux/flashplayer-installer	/^check_plugins_dir () {$/;"	f
+compare_versions	install_flash_player_9_linux/flashplayer-installer	/^compare_versions () {$/;"	f
+exit_cpu	install_flash_player_9_linux/flashplayer-installer	/^exit_cpu () {$/;"	f
+exit_error	install_flash_player_9_linux/flashplayer-installer	/^exit_error () {$/;"	f
+exit_glibc	install_flash_player_9_linux/flashplayer-installer	/^exit_glibc () {$/;"	f
+exit_os	install_flash_player_9_linux/flashplayer-installer	/^exit_os () {$/;"	f
+fix_dir	install_flash_player_9_linux/flashplayer-installer	/^fix_dir () {$/;"	f
+foo	err_trap.sh	/^foo()$/;"	f
+get_browser_dir	install_flash_player_9_linux/flashplayer-installer	/^  get_browser_dir () {$/;"	f
+get_installagreement	install_flash_player_9_linux/flashplayer-installer	/^  get_installagreement () {$/;"	f
+select_local_install	install_flash_player_9_linux/flashplayer-installer	/^  select_local_install () {$/;"	f
+warn_symbolic_link	install_flash_player_9_linux/flashplayer-installer	/^warn_symbolic_link () {$/;"	f

@@ -1,0 +1,8662 @@
+cscope 15 /media/storage/programming/shell -q 0000000483 0000043009
+	@/media/storage/programming/shell/1.sh
+
+1 #!/
+bš
+/
+bash
+
+
+2 
+	gA
+=
+B
+
+
+3 
+echo
+ "PID for 1.sh beforeƒxec/source/fork:$$"
+
+4 
+expÜt
+ 
+A
+
+
+5 
+echo
+ "1.sh: \$A is $A"
+
+6 
+$1
+ 
+š
+
+
+7 
+exec
+)
+
+8 
+echo
+ "usingƒxec¡­"
+
+9 
+exec
+ ./2.
+sh
+ ;;
+
+10 
+	gsourû
+)
+
+11 
+	gecho
+ "using source¡­"
+
+12 . ./2.
+	gsh
+ ;;
+
+14 
+	gecho
+ "using fork by default¡­"
+
+15 ./2.
+	gsh
+ ;;
+
+16 
+e§c
+
+
+17 
+	gecho
+ "PID for 1.sh‡fterƒxec/source/fork:$$"
+
+18 
+	gecho
+ "1.sh: \$A is $A"
+
+	@/media/storage/programming/shell/2.sh
+
+1 #!/
+bš
+/
+bash
+
+
+2 
+	gecho
+ "PID for 2.sh: $$"
+
+3 
+	gecho
+ "2.sh get \$A=$A from 1.sh"
+
+4 
+	gA
+=
+C
+
+
+5 
+expÜt
+ 
+A
+
+
+6 
+echo
+ "2.sh: \$A is $A"
+
+	@/media/storage/programming/shell/apt_bak.sh
+
+1 #!/
+bš
+/
+bash
+
+
+2 
+r
+ 
+	gcizvf
+ /
+	gmedŸ
+/
+	gcom´eh’sive
+/
+	gUbuÁu_backup
+/64/64
+	g_UbuÁu_8_04_backup
+.
+	gr
+.
+	ggz
+ /
+	gv¬
+/
+	gÿche
+/
+	g­t
+/
+	g¬chives
+ --
+	gexşude
+=/
+v¬
+/
+ÿche
+/
+­t
+/
+¬chives
+/
+·¹Ÿl
+
+
+	@/media/storage/programming/shell/backup.sh
+
+1 #!/
+bš
+/
+bash
+
+
+2 
+	gı
+ -
+	gäuv
+ /
+	g‘c
+/
+	gf¡ab
+ /
+	gmedŸ
+/
+	g¡Üage
+/
+	gbackup
+/
+	gUbuÁu_backup
+/
+	gPrim¬y
+-
+	gStÜage
+/
+
+3 
+	gı
+ -
+	gäuv
+ /
+	g‘c
+/
+	g­t
+/
+	gsourûs
+.
+	gli¡
+ /
+	gmedŸ
+/
+	g¡Üage
+/
+	gbackup
+/
+	gUbuÁu_backup
+/8.10.64/
+
+4 
+	gı
+ -
+	gäuv
+ /
+	g‘c
+/
+	g§mba
+/
+	gsmb
+* /
+	gmedŸ
+/
+	g¡Üage
+/
+	gbackup
+/
+	gUbuÁu_backup
+/
+	gPrim¬y
+-
+	gStÜage
+/
+
+5 
+	gı
+ -
+	gäuv
+ /
+	g‘c
+/
+	g­t
+/
+	gsourûs
+.
+	gli¡
+.
+	gd
+/
+	gmedibuÁu
+.li¡ /
+	gmedŸ
+/
+	g¡Üage
+/
+	gbackup
+/
+	gUbuÁu_backup
+/8.10.64/
+
+6 
+	gı
+ -
+	gäuv
+ /
+	g‘c
+/
+	g­t
+/
+	gsourûs
+.
+	gli¡
+.
+	gd
+/
+	gmedibuÁu
+.li¡ /
+	gmedŸ
+/
+	g¡Üage
+/
+	gbackup
+/
+	gUbuÁu_backup
+/8.10.64/
+
+7 
+	gı
+ -
+	gäuv
+ /
+	g‘c
+/
+	gÃtwÜk
+/
+	gš‹rçûs
+ /
+	gmedŸ
+/
+	g¡Üage
+/
+	gbackup
+/
+	gUbuÁu_backup
+/
+	gPrim¬y
+-
+	gStÜage
+/
+
+8 
+	gı
+ -
+	gäuv
+ /
+	gv¬
+/
+	glib
+/
+	gmldÚkey
+/
+	gdowÆßds
+.
+	gši
+ /
+	gmedŸ
+/
+	g¡Üage
+/
+	gbackup
+/
+	gUbuÁu_backup
+/
+	gPrim¬y
+-
+	gStÜage
+/
+
+9 
+	gı
+ -
+	gäuv
+ /
+	g‘c
+/
+	g£rviûs
+ /
+	gmedŸ
+/
+	g¡Üage
+/
+	gbackup
+/
+	gUbuÁu_backup
+/
+	gPrim¬y
+-
+	gStÜage
+/
+
+10 
+	gı
+ -
+	gäuv
+ /
+	g‘c
+/
+	g»sŞv
+.
+	gcÚf
+ /
+	gmedŸ
+/
+	g¡Üage
+/
+	gbackup
+/
+	gUbuÁu_backup
+/
+	gPrim¬y
+-
+	gStÜage
+/
+
+11 
+r
+ 
+	gcizvf
+ /
+	gmedŸ
+/
+	g¡Üage
+/
+	gbackup
+/
+	gUbuÁu_backup
+/8.10.64/
+	gUbuÁu
+.8.10.64.bac
+	gkup
+.
+	gr
+.
+	ggz
+ /
+	gv¬
+/
+	gÿche
+/
+	g­t
+/
+	g¬chives
+ --
+	gexşude
+=/
+v¬
+/
+ÿche
+/
+­t
+/
+¬chives
+/
+·¹Ÿl
+
+
+	@/media/storage/programming/shell/batch_add_postfix.sh
+
+1 #!/
+bš
+/
+bash
+
+
+3 
+my·th
+
+
+4 
+	gx
+=`
+echo
+ 
+$0
+ | 
+g»p
+ "^/"`
+
+5 
+‹¡
+ "${x}"; 
+th’
+
+
+6 
+	gmy·th
+ğ
+$0
+
+
+8 
+my·th
+ğ`
+pwd
+`/
+$0
+
+
+9 
+fi
+
+
+11 
+
+=
+$1
+
+
+12 
+f’ame
+ 
+š
+ `
+ls
+ 
+$my·th
+`
+
+14 
+mv
+ 
+$f’ame
+ 
+$
+{
+f’ame
+}.
+$
+
+
+	@/media/storage/programming/shell/batch_mv.sh
+
+1 #!/
+bš
+/
+bash
+
+
+2 #°Ñºó×º
+gz
+£¬¸ÄÎª
+z
+
+
+3 
+fe
+ 
+	gš
+ *.
+gz
+
+
+5 
+mv
+ 
+	g$fe
+ `
+ba£Çme
+ $f.
+	ggz
+`.
+z
+
+
+	@/media/storage/programming/shell/cscope-index.sh
+
+1 #!/
+bš
+/
+bash
+
+
+2 
+	gfšd
+ /
+	gmedŸ
+/
+	g¡Üage
+/
+	glšux
+/
+	g¤c
+/ -
+	gÇme
+ "*.h" -
+	go
+ -Çm"*.c" -Ø-Çm"*.cc" > /medŸ/¡Üage/lšux/¤c/
+	gcscİe
+.
+fes
+
+
+3 
+	gcd
+ /
+	gmedŸ
+/
+	g¡Üage
+/
+	glšux
+/
+	g¤c
+/
+
+4 
+	gcscİe
+ -
+	gbq
+ -
+	gi
+ /
+	gmedŸ
+/
+	g¡Üage
+/
+	glšux
+/
+	g¤c
+/cscİe.
+fes
+
+
+5 
+	gùags
+ -
+R
+
+
+6 
+	gvim
+ /
+	gmedŸ
+/
+	g¡Üage
+/
+	glšux
+/
+	g¤c
+/lšux-2.4/
+	gš™
+/
+	gmaš
+.c
+
+	@/media/storage/programming/shell/daily_software_install.sh
+
+1 #!/
+bš
+/
+bash
+
+
+2 #. `
+which
+ 
+sh
+-
+šşude
+`
+
+3 #šşud
+feG‘Lše
+
+
+4 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ghtİ
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+5 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ghib”Ç‹
+
+
+6 #/
+medŸ
+/
+¡Üage
+/
+soáw¬e
+/
+lšux_soáw¬e
+/
+vmw¬e
+/64/vmw¬e-
+di¡rib
+/vmw¬e-
+š¡®l
+.
+¶
+
+
+7 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+m¶ay”
+
+
+8 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gsysv
+-
+	grc
+-
+	gcÚf
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+9 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	g§mba
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+10 
+	gsourû
+ /
+	gmedŸ
+/
+	gcom´eh’sive
+/
+	g´og¿mmšg
+/
+	gsh–l
+/
+	gbackup
+.
+	gsh
+
+
+11 #dpkg -
+i
+ /
+medŸ
+/
+¡Üage
+/
+soáw¬e
+/
+lšux_soáw¬e
+/
+NX
+/64/NX\ 
+F»e
+\ 
+Ed™iÚ
+/
+nxnode_3
+.2.0-10
+_x86_64
+.
+deb
+ --
+fÜû
+-
+yes
+ -
+y
+
+
+12 #dpkg -
+i
+ /
+medŸ
+/
+¡Üage
+/
+soáw¬e
+/
+lšux_soáw¬e
+/
+NX
+/64/NX\ 
+F»e
+\ 
+Ed™iÚ
+/
+nxş›Á_3
+.2.0-9
+_x86_64
+.
+deb
+ --
+fÜû
+-
+yes
+ -
+y
+
+
+13 #dpkg -
+i
+ /
+medŸ
+/
+¡Üage
+/
+soáw¬e
+/
+lšux_soáw¬e
+/
+NX
+/64/NX\ 
+F»e
+\ 
+Ed™iÚ
+/
+nx£rv”_3
+.2.0-13
+_x86_64
+.
+deb
+ --
+fÜû
+-
+yes
+ -
+y
+
+
+14 
+	gdpkg
+ --
+	gcÚfigu»
+ -
+a
+
+
+15 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	geş£
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+16 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gdhı3
+-
+	g£rv”
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+17 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+©ápd
+ 
+	g©áp
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+18 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gvsápd
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+19 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gªju
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+20 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gªju
+-
+	gcommÚ
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+21 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	g­ache
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+22 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	g©
+-
+	g¥i
+-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+23 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gautobook
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+24 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gautocÚf
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+25 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gautocÚf2
+.13 --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+26 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gautocÚf
+-
+	g¬chive
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+27 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gautog’
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+28 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gautomake
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+29 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gbisÚ
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+30 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gùags
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+31 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gcvs
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+32 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gdevh–p
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+33 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gdevh–p
+-
+	gbooks
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+34 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gexub”ªt
+-
+	gùags
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+35 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gæex
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+36 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gg
+++ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+37 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gg77
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+38 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggcc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+39 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggcj
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+40 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggda2
+-
+	gä“tds
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+41 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggda2
+-
+	gmysql
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+42 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggda2
+-
+	godbc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+43 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggda2
+-
+	gpo¡g»s
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+44 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggda2
+-
+	gsql™e
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+45 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggÏde
+-2 --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+46 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggÏde
+-
+	gdoc
+-2 --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+47 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggÏde
+-
+	ggnome
+-2 --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+48 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggnome
+-
+	gdev–
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+49 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggnu
+-
+	g¡ªd¬ds
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+50 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggnus
+-
+	gbš
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+51 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gh‰pd
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+52 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gšd’t
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+53 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibcom´ess
+-
+	gzlib
+-
+	g³¾
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+54 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibga
+-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+55 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibglib2
+.0-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+56 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibgnome2
+-
+	gdev
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+57 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibgnome2
+-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+58 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibgnomeÿnvas2
+-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+59 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibgnomemm2
+.0-
+	gdev
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+60 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibgnomeui
+-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+61 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibgtk2
+.0-
+	gdev
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+62 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibgtk2
+.0-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+63 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibgtkmm2
+.0-
+	gdev
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+64 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibgtkmm2
+.0-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+65 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibhtml
+-
+	gfÜm©
+-
+	g³¾
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+66 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibio
+-
+	gsock‘
+-
+	gs¦
+-
+	g³¾
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+67 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibÉdl3
+-
+	gdev
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+68 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibmatoŞs
+-
+	g³¾
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+69 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glib·ngo1
+.0-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+70 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibpüe3
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+71 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glib¡dc
+++5-3.3-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+72 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibtoŞ
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+73 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibtoŞ
+-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+74 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gmª·ges
+-
+	gdev
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+75 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gm’u
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+76 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gÜb™2
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+77 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	g¡l
+-
+	gmªu®
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+78 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gsh¬ed
+-
+	gmime
+-
+	gšfo
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+79 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	g‰f
+-
+	gthryomªes
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+84 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gxpdf
+-
+	gchše£
+-
+sim¶if›d
+ xpdf-chše£-
+Œad™iÚ®
+ 
+	gpİ¶”
+-
+	gd©a
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+85 #wg‘ 
+h‰p
+:
+
+86 #¸-
+zxvf
+ 
+š¡®l_æash_¶ay”_9_lšux
+.
+r
+.
+gz
+
+
+87 #cd 
+š¡®l_æash_¶ay”_9_lšux
+/ && ./
+æash¶ay”
+-
+š¡®Ër
+
+
+88 #sudØ
+wg‘
+ 
+h‰p
+:
+
+89 #sudØ
+­t
+-
+g‘
+ 
+upd©e
+ && 
+sudo
+‡±-g‘ 
+š¡®l
+ 
+w64codecs
+
+
+90 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gmedibuÁu
+-
+	gkeyršg
+
+
+91 #sudØ
+­t
+-
+g‘
+ 
+upd©e
+
+
+92 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibxše1
+-
+ffm³g
+†ibxše1-
+	g®l
+-
+¶ugšs
+†ibxše1-¶ugš 
+w32codecs
+ 
+	ggcc
+-3.3-
+ba£
+ 
+	glib¡dc
+++5 --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+93 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gg¡»am”0
+.10-
+ffm³g
+ g¡»am”0.10-
+p™fdÎ
+ g¡»am”0.10-
+	g¶ugšs
+-
+bad
+ g¡»am”0.10-¶ugšs-
+	gbad
+-
+muÉiv”£
+ g¡»am”0.10-¶ugšs-
+ugly
+ g¡»am”0.10-¶ugšs-
+	gugly
+-muÉiv”£ g¡»am”0.10-
+	gesd
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+94 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+libdvdÇv4
+ 
+libdvd»ad3
+ 
+	glibdvdcss2
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+95 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+»move
+ 
+	gtÙem
+-
+	gmozÏ
+ -
+y
+
+
+96 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+sm¶ay”
+ 
+	gsm¶ay”
+-
+themes
+ 
+	gmozÏ
+-
+	gm¶ay”
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+97 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gg¡»am”0
+.10-
+	gæu’do
+-
+m³gdemux
+ g¡»am”0.10-
+	ggnÚlš
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+98 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gbud
+-
+es£ÁŸl
+ 
+autocÚf
+ 
+	gautomake1
+.9 
+cvs
+ 
+	gsubv”siÚ
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+99 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+uÄ¬
+ 
+	gp7z
+-
+fuÎ
+ 
+	gÿbexŒaù
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+103 #°²×°
+SrDiù
+·­Òë´Êµä
+
+104 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+¡¬diù
+ 
+	g¡¬diù
+-
+	gcommÚ
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+105 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	g¡¬diù
+-
+	gcdiù
+-
+gb
+ srdiù-
+	gûdiù
+-gb srdiù-
+hªzim
+ srdiù-
+	gÏngdao
+-
+	gû
+-gb srdiù-Ïngdao-
+	gec
+-gb srdiù-
+	goxfÜd
+-gb srdiù-
+	gxdiù
+-û-gb srdiù-xdiù-ec-
+	ggb
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+107 #°²×°ä¯ÀÀÆ÷
+FÏsh
+²å¼ş£º
+
+108 
+sudo
+ 
+	gmkdœ
+ -
+	gp
+ /
+	gu¤
+/
+	glib
+/
+	gX11
+/
+	gfÚts
+/
+Ty³1
+
+
+109 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gæash¶ugš
+-
+	gnÚä“
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+111 #°²×°ÏÂÔØ¹¤¾ß
+DowÆßd”_fÜ_X
+
+
+112 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gd4x
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+113 #°²×° 
+BT
+¹¤¾ß
+
+114 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gazu»us
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+115 #°²×°
+amuË
+¹¤¾ß
+
+116 #Ö»Òª¼ÓÈëÒÔÏÂ
+IP
+¾Í¿ÉÒÔ×Ô¶¯½«ËùÓĞµÄIPÁĞ¾Ù³öÀ´ÁË¡£Ãû³Æ£º
+DÚkeyS”v”
+ 
+No1
+ µØÖ·£º62.241.53.2:4242
+
+117 #ED2K·şÎñÆ÷ÁĞ±í,ÔÚ
+£rv”
+À¸ÖĞ·ÖÅú´ÎÊäÈë:
+h‰p
+:
+
+118 #KAD ¸üĞÂµØÖ· ¿ÉÒÔÓÃ:
+h‰p
+:
+
+119 #Èç¹ûĞèÒª½« 
+aMuË
+ Óë 
+Fœefox
+ ä¯ÀÀÆ÷Ïà¹ØÁª£¬¿ÉÒÔ°Ñ 
+ÃtwÜk
+.
+´ÙocŞ
+-
+hªdËr
+.
+­p
+.
+ed2k
+ µÄ×Ö·û´®ÉèÖÃÎª /
+u¤
+/
+bš
+/ed2k¡£
+
+120 #È»ºóÔÚ
+Fœefox
+ÀïÃæ¹ØÁª
+ed2k
+Á´½Ó¡£
+
+121 #ÔÚµØÖ·À¸ÊäÈë
+about
+:
+cÚfig
+
+
+122 #ĞÂ½¨¡°²¼¶û¡± Ãû³Æ£º
+ÃtwÜk
+.
+´ÙocŞ
+-
+hªdËr
+.
+ex‹º®
+.
+ed2k
+ Öµ£º
+Œue
+
+
+123 #ĞÂ½¨¡°×Ö·û´®¡± Ãû³Æ£º
+ÃtwÜk
+.
+´ÙocŞ
+-
+hªdËr
+.
+­p
+.
+ed2k
+ Öµ£º/
+u¤
+/
+bš
+/ed2k
+
+124 #ÁíÍâ£¬×îºÃ½«
+amuË
+µÄ
+Nick
+(ÓÃ»§êÇ³Æ)¸Ä³É [
+CHN
+][
+V”yCD
+]
+youºame
+
+
+125 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+amuË
+ 
+	gamuË
+-
+	guts
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+128 #°²×°
+¿r
+Ö§³Ö
+
+129 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+¿r
+ 
+	guÄ¬
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+131 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gbud
+-
+	ges£ÁŸl
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+132 #°²×° 
+RSS
+ ĞÂÎÅÔÄ¶ÁÆ÷
+
+133 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gak»g©Ü
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+134 #°²×°
+FTP
+¹¤¾ß
+
+135 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggáp
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+137 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gÇutus
+-
+	gİ’
+-
+	g‹rmš®
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+138 #®›n--°Ñ
+½m
+°ü×ª»»³É
+deb
+°ü¡£Ê¹ÓÃÃüÁî£º
+®›n
+ 
+abc
+.rpm
+
+139 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	g®›n
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+143 #Am¬oKÊı×ÖÒôÀÖ²¥·ÅÆ÷(²å·Å
+mp3
+)£¬±»ÆÀÎª
+lšux
+ÏÂÊ®´ó×îÊÜ»¶Ó­Èí¼şÖ®Ò»¡£
+
+145 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gam¬ok
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+147 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+m¶ay”
+ 
+	gmozÏ
+-m¶ay” 
+	glibxše
+-
+exŒacodecs
+ 
+	gw32codecs
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+148 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gg¡»am”0
+.10-
+	g¶ugšs
+-
+ugly
+ g¡»am”0.10-
+p™fdÎ
+ g¡»am”0.10-
+	gffm³g
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+150 #m¶ay”²Ù×÷ËµÃ÷£º 
+F
+ = È«ÆÁ£¬
+P
+ = ÔİÍ£/¿ªÊ¼£¬
+O
+ = ÏÔÊ¾/Òş²Ø²¥·ÅÊ±¼ä£¬
+ALT
++·½Ïò¼ü = ²¥·Å½ø¶È
+
+152 #ÅäÖÃ
+m¶ay”
+
+
+153 (
+	gecho
+ '$a';
+
+154 
+	gecho
+ 'ao=alsa #ÒôÆµÇı¶¯Ñ¡Ôñ';
+
+155 
+	gecho
+ 'vo=x11 #ÊÓÆµÇı¶¯Ñ¡Ôñ';
+
+156 
+	gecho
+ 'joystick=0 #ÊÇ·ñÖ§³ÖÊÖ±ú¿ØÖÆ';
+
+157 
+	gecho
+ 'stop-xscreensaver=yes #ÊÇ·ñÔÊĞí²¥·ÅÊÓÆµÊ±³öÏÖÆÁ±£';
+
+158 
+	gecho
+ 'monitoraspect=1280:800 #Ê¶±ğ×ÀÃæ·Ö±æÂÊÎª1280¡Á800';
+
+159 
+	gecho
+ 'zoom=yes #ÊÇ·ñÔÊĞíÊÓÆµËõ·Å';
+
+160 
+	gecho
+ 'subcp=cp936 #×ÖÄ»×Ö·û¼¯±àÂë';
+
+161 
+	gecho
+ 'subfont-autoscale=1 #ÉèÖÃ°´Ê²Ã´·½·¨À´½øĞĞ×Ô¶¯Ëõ·Å×ÖÄ»£¬0£­²»×Ô¶¯Ëõ·Å£¬1£­°´µçÓ°¸ß¶ÈËõ·Å£¬2£­°´µçÓ°¿í¶ÈËõ·Å£¬3£­°´µçÓ°¶Ô½ÇÏßËõ·Å(Ä¬ÈÏÖµ)';
+
+162 
+	gecho
+ 'subfont-text-scale=5 #ÉèÖÃ×ÖÄ»ÎÄ±¾µÄ×Ô¶¯Ëõ·ÅÏµÊı(ÆÁÄ»³ß´çµÄ°Ù·Ö±È)£¬Öµ·¶Î§Îª0¡«100£¬Ä¬ÈÏÖµÎª5¡£';
+
+163 
+	gecho
+ 'subfont-osd-scale=8 #OSD×ÖÄ»µÄ×Ô¶¯Ëõ·ÅÏµÍ³(ÆÁÄ»³ß´çµÄ°Ù·Ö±È)£¬Öµ·¶Î§Îª0¡«100£¬Ä¬ÈÏÖµÎª6¡£';
+
+164 
+	gecho
+ 'font=/usr/share/fonts/zh_CN/msyh.ttf #Ñ¡Ôñ×ÖÄ»ÓÃµÄ×ÖÌå';
+
+165 
+	gecho
+ 'overlapsub=1 #Ö§³Ö¶àÓïÑÔ×ÖÄ»¡£';
+
+166 
+	gecho
+ 'sub-fuzziness=1 #Éè¶¨×ÖÄ»×Ô¶¯¼ÓÔØµÄÊ¶±ğ£¬²¥·ÅÊ±¿ÉÒÔÍ¨¹ıj¼üÇĞ»»¡£';
+
+167 
+	gecho
+ 'osdlevel=1 #OSDÀàĞÍ£¬0²»ÏÔÊ¾£»1Ö»ÏÔÊ¾½ø¶È(½öÔÚ¿ì½ø¿ìÍËÊ±)£»2ÏÔÊ¾²¥·ÅÊ±¼ä£»3ÏÔÊ¾²¥·ÅÊ±¼äºÍÊ£ÓàÊ±¼ä';
+
+168 
+	gecho
+ 'cache = 8192 #´ËÑ¡ÏîÖ¸¶¨ÓÃ¶àÉÙÄÚ´æ(ÒÔ kBytes Îªµ¥Î»)×÷Îª²¥·ÅÎÄ¼ş»ò URL µÄÔ¤»º³å';
+
+169 
+	gecho
+ '.';ƒchØ'wq'è| 
+	ged
+ -
+	gs
+ ~/.
+	gm¶ay”
+/
+	gcÚfig
+
+
+173 #°²×°ÖĞÎÄÊäÈë·¨£º
+fc™x
+ £¨×¢£º×°ºÃºóÔÚ»á»°Àï¼ÓÒ»¸öÆô¶¯Ïî£ºfcitx£¬³ı·ÇÄãÏëÃ¿´ÎÓÃ¶¼´òfcitxÃüÁî£©
+
+174 #ĞŞ¸ÄÅäÖÃÎÄ¼ş ~/.
+fc™x
+/
+cÚfig
+
+
+177 #ÊäÈëÌõÆ«ÒÆÁ¿
+X
+=9 #ÊäÈë´°¿ÚÀë¿ªµÃÔ¶Ò»Ğ©
+
+178 #ÊäÈëÌõÆ«ÒÆÁ¿
+Y
+=22
+
+180 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gim
+-
+fc™x
+ 
+	glib­t
+-
+	gpkg
+-
+	g³¾
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+182 
+sudo
+ 
+	gim
+--
+s
+ 
+	gfc™x
+
+
+186 #ÔÄ¶Á
+CHM
+ÎÄ¼ş£¬
+chm£e
+¶ÔÄ³Ğ©²»¹æ·¶µÄ
+chm
+ÎÄ¼şÖ§³ÖĞ§ºÃ£¬ 
+gnochm
+Ö§³ÖËÑË÷
+
+187 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+chm£e
+ 
+	ggnochm
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+188 #LšuxÏÂµÄ
+QQ
+¿Í»§¶Ë--
+eva
+
+
+189 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	geva
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+190 #½â¾öÔÚ
+eva
+ÎŞ·¨Ê¹ÓÃ
+scim
+ÊäÈë·¨µÄÎÊÌâ(Èç¹ûÓÃ
+fc™x
+ÊäÈë·¨£¬´Ë²½¿ÉÊ¡)
+
+191 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gscim
+-
+	gqtimm
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+192 #°²×° 
+Pidgš
+.
+Gaim
+ ÒÑ¾­¸ÄÃûÎª Pidgin
+
+193 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gpidgš
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+194 #×ÀÃæËÑË÷£¬¹¦ÄÜÀàËÆÓÚ
+GOOGLE
+µÄÄÇ¸ö×ÀÃæËÑË÷¡£°²×°ºóÔÚ¡°¸½¼ş¡±²Ëµ¥¿ÉÕÒµ½Ò»¸ö¡°ËÑË÷¡±Ïî
+
+195 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gb—gË
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+198 #ıuäequts£­£­µ÷½Ú
+CPU
+ÆµÂÊ
+
+199 #¼àÊÓ
+ıu
+ÆµÂÊ£ºÓÒ¼üµ¥»÷Ãæ°å£¬Ñ¡Ôñ¡°Ìí¼Óµ½Ãæ°å¡±£¬ÀïÃæÕÒµ½¡°cpuÆµÂÊ·¶Î§¼àÊÓÆ÷¡±¡£
+
+200 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gıuäequts
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+201 
+sudo
+ 
+	gıuäeq
+-
+	g£t
+ -
+g
+ 
+	gÚdemªd
+
+
+202 #Ö´ĞĞ
+ıuäeq
+-
+šfo
+¿É¿´µ½
+CPU
+ËùÖ§³ÖµÄÄ£Ê½£¬´óÖÂÓĞÈçÏÂ¼¸ÖÖ£º
+
+205 #Údemªd£¬Ò»ÓĞ
+ıu
+¼ÆËãÈÎÎñ£¬Á¢¼´´ïµ½×î´óÆµÂÊ£¬Ö´ĞĞÍê±ÏÁ¢¼´»Øµ½×îµÍÆµÂÊ
+
+209 #¼àÊÓ
+CPU
+ÎÂ¶È£º
+
+210 #Ìí¼Óµ½Ãæ°åµÄÏîµÄÃû×Ö½Ğ¡°
+H¬dw¬e
+ 
+£nsÜs
+ 
+mÚ™Ü
+"
+
+211 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	g£nsÜs
+-
+	g­¶‘
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+220 #¿ª·¢
+JAVA
+³ÌĞòµÄ
+JDK
+»·¾³(Èç¹û½öÊÇÔËĞĞ
+Java
+³ÌĞò£¬¿ÉÓÃ
+sun
+-
+java6
+-
+j»
+)
+
+221 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gsun
+-
+	gjava6
+-
+	gjdk
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+222 #°²×°ä¯ÀÀÆ÷µÄ
+JAVA
+ 
+Plugš
+
+
+223 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gsun
+-
+	gjava6
+-
+	g¶ugš
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+224 #°²×°
+MySQL
+
+
+225 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gmysql
+-
+£rv”
+ mysql-
+	gş›Á
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+227 
+	gmysqÏdmš
+ -
+uroÙ
+ 
+·sswÜd
+ 
+	gove03180118
+
+
+228 #ÖØÆô¶¯
+mysql
+·şÎñ£¨´Ë²½¿ÉÊ¡£©
+
+229 #mysqÏdmš -
+uroÙ
+ -
+pove03180118
+ 
+shutdown
+
+
+231 #ºÍ
+Visio
+ÀàËÆµÄ
+dŸ
+£¨Ä¬ÈÏÖ»ÄÜÔÚÃüÁîĞĞÆô¶¯£©
+
+232 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gdŸ
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+233 #»­
+UML
+Í¼µÄ
+umb»Îo
+
+
+234 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gumb»Îo
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+247 #ArŸl, 
+Tahoma
+, 
+Times
+ 
+New
+ 
+Romª
+¶¼ÊÇÏÔÊ¾ÍøÒ³ºÜÖØÒªµÄ×ÖÌå
+
+248 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gm¡tcÜefÚts
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+250 #½«
+Lucida
+ 
+G¿nde
+×ÖÌå¸´ÖÆµ½~/.
+fÚts
+/£¬ÓÃ¡°ÏµÍ³->Ê×Ñ¡Ïî->×ÖÌå¡±°Ñ×ÖÌåµ÷Õû³ÉLucid¨G¿nde£¬×îºóÒ»¸öµÈ¿íµ÷ÕûÎªLucid¨
+CÚsŞe
+¡£
+
+251 #ÕâÊ±ÏÔÊ¾Ğ§¹û¿Ï¶¨ºÜÔã¸â£¬ÎÒÃÇĞèÒª°Ñ
+autohštšg
+´ò¿ª¡£ÔÚÄãµÄÓÃ»§Ä¿Â¼ÏÂÌí¼ÓÒ»¸öÎÄ¼ş
+
+252 
+	grm
+ ~/.
+	gfÚts
+.
+cÚf
+
+
+253 
+	gecho
+ '<?xmÈv”siÚ="1.0"?>' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+254 
+	gecho
+ '<!DOCTYPE fÚtcÚfig SYSTEM "fÚts.dtd">' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+255 
+	gecho
+ '<fÚtcÚfig>' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+256 
+	gecho
+ ' <m©ch¬g‘="fÚt">' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+257 
+	gecho
+ ' <‹¡ com·»="mÜe"‚ame="pix–size" qu®="ªy">' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+258 
+	gecho
+ ' <doubË>12</doubË>' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+259 
+	gecho
+ ' </‹¡>' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+260 
+	gecho
+ ' <ed™‚ame="autohšt" mode="assign" >' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+261 
+	gecho
+ ' <boŞ>Œue</boŞ>' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+262 
+	gecho
+ ' </ed™>' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+263 
+	gecho
+ ' </m©ch>' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+264 
+	gecho
+ '</fÚtcÚfig>' >> ~/.
+	gfÚts
+.
+	gcÚf
+
+
+266 #ÖØĞÂµÇÂ¼£¬×ÖÌåÏÔÊ¾Ó¦¸ÃºÃÁË²»ÉÙ¡£²»¹ıÎÒÃÇ»¹Ã»Íê³É£¬Èç¹û×ĞÏ¸¹Û²ì£¬Ğ¡×ÖÌåµÄÏÔÊ¾»¹ÊÇÆÄÎªÄ£ºı¡£ĞÒÔËµÄÊÇÏÖÔÚÓĞÈËÌá¹©ÁË¼ÓÉÏ
+·tch
+µÄÕâ¼¸¸ö°üµÄ
+»pos™Üy
+£¬ÎÒÃÇ¿ÉÒÔºÜ·½±ãµØ°²×°£º
+
+268 #sudØ
+ged™
+ /
+‘c
+/
+­t
+/
+sourûs
+.
+li¡
+
+
+270 #deb 
+h‰p
+:
+
+271 #deb-
+¤c
+ 
+h‰p
+:
+
+273 #È»ºóÔÚÃüÁîĞĞÏÂ£¬ÏÂÔØ
+gÅ
+ 
+key
+£º
+
+274 
+wg‘
+ 
+	gh‰p
+:
+
+277 
+sudo
+ 
+­t
+-
+g‘
+ 
+š¡®l
+ 
+libä“ty³6
+ 
+libÿœo2
+ 
+libxá2
+
+
+280 #×îºó¶¯Ò»ÏÂ×ÖÌåÉèÖÃ£¬ÎÒÓÃµÄÊÇ(
+Autohštšg
+->
+Always
+->
+No
+ 
+b™m­s
+£©£¬Õâ¸öÃüÁîĞèÒª»Ø´ğÎÊÌâ¡£
+
+281 
+sudo
+ 
+dpkg
+-
+»cÚfigu»
+ 
+fÚtcÚfig
+-
+cÚfig
+
+
+282 
+sudo
+ 
+dpkg
+-
+»cÚfigu»
+ 
+fÚtcÚfig
+
+
+283 #ÍË³öÖØĞÂµÇÂ¼£¬×ÖÌåÊÇ²»ÊÇÇåÎúÁËºÜ¶à£¿×¢ÒâÄãä¯ÀÀÆ÷µØÖ·À¸ÀïµÄ¡°
+www
+¡°£¬Ğ±ÏßÃ»ÓĞÁËÃ«±ß¡£
+
+290 #°²×°
+PDF
+ÔÄ¶ÁÆ÷£­£­
+Aüob©7
+.0
+
+291 #ËäÈ»
+ubuÁu
+×Ô´øµÄÎÄµµ²é¿´Æ÷¿ÉÒÔ¿´
+PDF
+£¬µ«ÓĞĞ©PDFÎÄ¼ş²»Ì«¹æ·¶£¬´Ó¶øµ¼ÖÂÂÒÂë¡£ÕâÊ±¾ÍĞèÒªÓÃ¹Ù·½µÄ 
+Aüob©
+ÁË£¬²»¹ıÕâ¸öÈí¼ş½Ï´ó£¬Æô¶¯Ò²½ÏÂı¡£
+
+292 
+sudo
+ 
+­t
+-
+g‘
+ 
+š¡®l
+ 
+aüÜ—d
+ --
+fÜû
+-
+yes
+ -
+y
+
+
+294 #wg‘ 
+h‰p
+:
+
+295 #¸
+zxvf
+ 
+FÚtPack708_chs_i386
+-
+lšux
+.
+r
+.
+gz
+
+
+296 #½âÑ¹ºó£¬ÔËĞĞÆäÖĞµÄ
+INSTALL
+
+
+297 #sudØ./
+INSTALL
+
+
+298 #ÎÒÊÂÏÈ°Ñ
+FÚtPack708_chs_i386
+-
+lšux
+.
+r
+.
+gz
+½âÑ¹µ½
+aüob©7_ú
+Ä¿Â¼
+
+299 
+sudo
+ /
+v¬
+/
+ÿche
+/
+­t
+/
+¬chives
+/
+aüob©7_ú
+/
+INSTALL
+
+
+301 #µÚ¶ş¸öÎÊÌâÎÊÄãÊÇ·ñ½ÓÊÜĞ­Òé£¬¼üÈë
+acû±
+ºó»Ø³µ£»
+
+302 #µÚÈı¸öÎÊÌâÒªÄã¶¨Òå
+Aüob©
+µÄ°²×°Ä¿Â¼£¬ÊäÈë/
+u¤
+/
+lib
+/
+Adobe
+/
+Aüob©7
+.0ºó»Ø³µ¡£
+
+	@/media/storage/programming/shell/debug.sh
+
+1 #!/
+bš
+/
+bash
+
+
+2 
+	gŒ­
+ 'echØ¡°befÜexecu‹†še:$LINENO,‡=$a,b=$b,c=$c¡±' 
+DEBUG
+
+
+3 
+	ga
+=1
+
+4 [ "$a" -
+eq
+ 1 ]
+
+5 
+th’
+
+
+6 
+b
+=2
+
+8 
+b
+=1
+
+9 
+fi
+
+
+10 
+c
+=3
+
+11 
+echo
+ "end"
+
+	@/media/storage/programming/shell/dir_name.sh
+
+1 #! /
+bš
+/
+sh
+
+
+2 #
+#fe: 
+dœ_Çme
+.
+sh
+
+
+3 #auth: 
+mymtom
+
+
+6 
+	gx
+=`
+echo
+ 
+$0
+ | 
+g»p
+ "^/"`
+
+8 
+‹¡
+ "${x}"; 
+th’
+
+
+9 
+dœÇme
+ 
+$0
+
+
+11 
+	gdœÇme
+ `
+	gpwd
+`/
+$0
+
+
+12 
+	gfi
+
+
+	@/media/storage/programming/shell/err_trap.sh
+
+1 
+	$ERRTRAP
+()
+
+3 
+echo
+ "[LINE:$1] Error: Command or functionƒxited with status $?"
+
+4 
+	}
+}
+
+5 
+	$foo
+()
+
+8 
+	}
+}
+
+9 
+	gŒ­
+ 'ERRTRAP $LINENO' 
+ERR
+
+
+10 
+abc
+
+
+	@/media/storage/programming/shell/find-files.sh
+
+1 #!/
+bš
+/
+bash
+
+
+2 
+	gfšd
+ /
+	gu¤
+ -
+	gÇme
+ "¡ršg.h" -
+ty³
+ 
+	gf
+ > /
+	gmedŸ
+/
+	g¡Üage
+/
+	g´og¿mmšg
+/
+	gsh–l
+/find.log
+
+	@/media/storage/programming/shell/hello_world.sh
+
+1 #!/
+bš
+/
+bash
+
+
+2 #´šˆ
+h–lo
+ 
+wÜld
+
+
+3 
+	g´štch¬
+="hello world"
+
+4 
+echo
+ 
+$´štch¬
+
+
+	@/media/storage/programming/shell/move.sh
+
+1 #!/
+bš
+/
+bash
+
+
+2 
+	gmv
+ -
+	gfv
+ /
+	gmedŸ
+/
+	g¡Üage
+/
+	gbackup
+/
+	gmusic_bak
+.
+	gr
+.
+	gbz2
+.
+	ga
+* /medŸ/¡Üage/backup/
+	gmove
+/
+
+	@/media/storage/programming/shell/read.sh
+
+1 #!/
+bš
+/
+bash
+
+
+3 
+	gecho
+ `
+	gpwd
+`/
+	gcscİe
+.
+fes
+
+
+4 
+	gfšd
+ `
+	gpwd
+` -
+	gÇme
+ "*.h" -
+	go
+ -Çm"*.c" -Ø-Çm"*.cc" -Ø-Çm"*.sh"> `pwd`/
+	gcscİe
+.
+fes
+
+
+5 
+	gcd
+ `
+	gpwd
+`
+
+6 
+	gcscİe
+ -
+	gbq
+ -
+	gi
+ `
+	gpwd
+`/cscİe.
+fes
+
+
+7 
+	gùags
+ -R
+
+	@/media/storage/programming/shell/restore_system_software.sh
+
+1 #!/
+bš
+/
+bash
+
+
+2 #ı -
+äv
+ /
+medŸ
+/
+com´eh’sive
+/
+UbuÁu_backup
+/64/
+f¡ab
+ /
+‘c
+/
+
+3 
+	gı
+ -
+	gäv
+ /
+	gmedŸ
+/
+	gcom´eh’sive
+/
+	gUbuÁu_backup
+/64/
+	gsourûs
+.
+	gli¡
+ /
+	g‘c
+/
+	g­t
+/
+
+4 
+	gı
+ -
+	gäv
+ /
+	gmedŸ
+/
+	gcom´eh’sive
+/
+	gUbuÁu_backup
+/64/
+	gsmb
+* /
+	g‘c
+/
+	g§mba
+/
+
+5 
+	gı
+ -
+	gäv
+ /
+	gmedŸ
+/
+	gcom´eh’sive
+/
+	gUbuÁu_backup
+/64/
+	gš‹rçûs
+ /
+	g‘c
+/
+	gÃtwÜk
+/
+
+6 /
+	g‘c
+/
+	gš™
+.
+	gd
+/
+ÃtwÜkšg
+ 
+»¡¬t
+
+
+7 
+	gı
+ -
+	gäv
+ /
+	gmedŸ
+/
+	gcom´eh’sive
+/
+	gUbuÁu_backup
+/64/
+	g»sŞv
+.
+	gcÚf
+ /
+	g‘c
+/
+
+8 
+	gı
+ -
+	gäuv
+ /
+	gmedŸ
+/
+	gcom´eh’sive
+/
+	gUbuÁu_backup
+/64/
+	gmedibuÁu
+.
+	gli¡
+ /
+	g‘c
+/
+	g­t
+/
+	gsourûs
+.li¡.
+	gd
+/
+
+10 
+	g­t
+-
+g‘
+ 
+	gupd©e
+ && 
+sudo
+ 
+r
+ 
+	gxzvf
+ /
+	gmedŸ
+/
+	gcom´eh’sive
+/
+	gbackup
+/
+	gUbuÁu_backup
+/64/
+	gUbuÁu
+.8.10.64.bac
+	gkup
+.
+	gr
+.
+	ggz
+ -
+	gC
+ /
+
+	@/media/storage/programming/shell/search-string.sh
+
+1 #!/
+bš
+/
+bash
+
+
+2 
+	gg»p
+ -
+	gr
+ "¡rıy" /
+	gu¤
+ > /
+	gmedŸ
+/
+	g¡Üage
+/
+	g´og¿mmšg
+/
+	gsh–l
+/
+	gfšd
+.
+log
+
+
+3 
+	gfšd
+ /
+	gu¤
+ -
+	gÇme
+ "*.php" | 
+x¬gs
+ 
+	gg»p
+ -
+	gF
+ 'Òª²éÕÒµÄÄÚÈİ'
+
+	@/media/storage/programming/shell/set_network.sh
+
+1 
+	gı
+ -
+	gäv
+ /
+	gmedŸ
+/
+	gdisk
+/
+	gbackup
+/
+	gUbuÁu_backup
+/64/
+	gš‹rçûs
+ /
+	g‘c
+/
+	gÃtwÜk
+/
+
+2 /
+	g‘c
+/
+	gš™
+.
+	gd
+/
+ÃtwÜkšg
+ 
+	g»¡¬t
+
+
+	@/media/storage/programming/shell/setfastsource.sh
+
+1 #!/
+bš
+/
+bashxNRLšux
+ÁªÃË
+
+2 
+	gxNRLšux
+ÁªÃË
+
+3 [ 
+$
+#!ğ1 -
+a
+ "$1" !ğ"hßry" -¨"$1" !ğ"b»ezy" ] ; 
+	gth’xNRLšux
+ÁªÃË
+
+4 
+	gecho
+ "$0 (hßry|b»ezy)"
+	gxNRLšux
+ÁªÃË
+
+5 
+	gex™
+ 1x
+	gNRLšux
+ÁªÃË
+
+6 
+	gfixNRLšux
+ÁªÃË
+
+7 
+	gxNRLšux
+ÁªÃË
+
+8 
+	gecho
+ "S‘šg $1 ..."
+	gxNRLšux
+ÁªÃË
+
+9 
+	gMIRRORS
+="http://ftp.iinet.net.au/pub/ubuntu/ \xNRLinuxÁªÃË
+
+10 
+h‰p
+:
+
+11 
+h‰p
+:
+
+12 
+h‰p
+:
+
+13 
+h‰p
+:
+
+14 
+h‰p
+:
+
+15 
+h‰p
+:
+
+16 
+h‰p
+:
+
+17 
+h‰p
+:
+
+18 
+h‰p
+:
+
+19 
+h‰p
+:
+
+20 
+h‰p
+:
+
+21 
+h‰p
+:
+
+22 
+h‰p
+:
+
+23 
+h‰p
+:
+
+24 
+h‰p
+:
+
+25 
+h‰p
+:
+
+26 
+h‰p
+:
+
+27 
+h‰p
+:
+
+28 
+h‰p
+:
+
+29 
+h‰p
+:
+
+30 
+h‰p
+:
+
+31 
+h‰p
+:
+
+32 
+h‰p
+:
+
+33 
+h‰p
+:
+
+34 
+h‰p
+:
+
+35 
+h‰p
+:
+
+36 
+h‰p
+:
+
+37 
+h‰p
+:
+
+38 
+h‰p
+:
+
+39 
+h‰p
+:
+
+40 
+h‰p
+:
+
+41 
+h‰p
+:
+
+42 
+h‰p
+:
+
+43 
+h‰p
+:
+
+44 
+h‰p
+:
+
+45 
+h‰p
+:
+
+46 
+h‰p
+:
+
+47 
+h‰p
+:
+
+48 
+h‰p
+:
+
+49 
+h‰p
+:
+
+50 
+h‰p
+:
+
+51 
+h‰p
+:
+
+52 
+h‰p
+:
+
+53 
+h‰p
+:
+
+54 
+h‰p
+:
+
+55 
+h‰p
+:
+
+56 
+h‰p
+:
+
+57 
+h‰p
+:
+
+58 
+h‰p
+:
+
+59 
+h‰p
+:
+
+60 
+h‰p
+:
+
+61 
+h‰p
+:
+
+62 
+h‰p
+:
+
+63 
+h‰p
+:
+
+64 
+h‰p
+:
+
+65 
+h‰p
+:
+
+66 
+h‰p
+:
+
+67 
+h‰p
+:
+
+68 
+h‰p
+:
+
+69 
+h‰p
+:
+
+70 
+h‰p
+:
+
+71 
+h‰p
+:
+
+72 
+h‰p
+:
+
+73 
+h‰p
+:
+
+74 
+h‰p
+:
+
+75 
+h‰p
+:
+
+76 
+h‰p
+:
+
+77 
+h‰p
+:
+
+78 
+h‰p
+:
+
+79 
+h‰p
+:
+
+80 
+h‰p
+:
+
+81 
+h‰p
+:
+
+82 
+h‰p
+:
+
+83 
+h‰p
+:
+
+84 
+h‰p
+:
+
+85 
+h‰p
+:
+
+86 
+h‰p
+:
+
+87 
+h‰p
+:
+
+88 
+h‰p
+:
+
+89 
+h‰p
+:
+
+90 
+h‰p
+:
+
+91 
+h‰p
+:
+
+92 
+h‰p
+:
+
+93 
+h‰p
+:
+
+94 
+h‰p
+:
+
+95 
+h‰p
+:
+
+96 
+xNRLšux
+ÁªÃË
+
+97 
+TIME
+="/u¤/bš/tim-Øtim”.txˆ-à%e"
+xNRLšux
+ÁªÃË
+
+98 
+URL
+="di¡s/$1/maš/bš¬y-i386/Packages.gz"
+xNRLšux
+ÁªÃË
+
+99 
+WGET
+="wg‘ --ÿche=ofà-T 20 -ˆ1 -w 0 -O /dev/nuÎ"
+xNRLšux
+ÁªÃË
+
+100 
+PAYTIME
+=1000x
+NRLšux
+ÁªÃË
+
+101 
+TEMPTIME
+=1000x
+NRLšux
+ÁªÃË
+
+102 
+xNRLšux
+ÁªÃË
+
+103 
+SITE
+="NONE"
+xNRLšux
+ÁªÃË
+
+104 
+xNRLšux
+ÁªÃË
+
+105 
+mœrÜ
+ 
+š
+ 
+$MIRRORS
+; 
+	gdoxNRLšux
+ÁªÃË
+
+106 
+	gecho
+ "Te¡šg $mœrÜ ..."
+	gxNRLšux
+ÁªÃË
+
+107 
+	gTEMPTIME
+=
+	$$
+(
+$TIME
+ 
+$WGET
+ 
+$mœrÜ$URL
+)
+xNRLšux
+ÁªÃË
+
+108 [ "$?" = 0 ] ; 
+th’xNRLšux
+ÁªÃË
+
+109 
+TEMPTIME
+=
+	$$
+(
+ÿt
+ 
+tim”
+.
+txt
+)
+xNRLšux
+ÁªÃË
+
+110 
+echo
+ "wg‘ $1: $TEMPTIME Cu¼MšTime: $PAYTIME"
+xNRLšux
+ÁªÃË
+
+111 
+TEMPTIME2
+=
+	`$
+(
+echo
+ "$PAYTIME> $TEMPTIME"|
+bc
+)
+xNRLšux
+ÁªÃË
+
+112 [ 
+$TEMPTIME2
+ = 1 ] ; 
+th’xNRLšux
+ÁªÃË
+
+113 
+PAYTIME
+=
+$TEMPTIMExNRLšux
+ÁªÃË
+
+114 
+SITE
+=
+$mœrÜxNRLšux
+ÁªÃË
+
+115 
+echo
+ "S‘ be¡ s™e($PAYTIME): $SITE"
+xNRLšux
+ÁªÃË
+
+116 
+fixNRLšux
+ÁªÃË
+
+117 
+fixNRLšux
+ÁªÃË
+
+118 
+rm
+ 
+tim”
+.
+txtxNRLšux
+ÁªÃË
+
+119 
+dÚe
+
+
+	@/media/storage/programming/shell/smbmount.sh
+
+1 #!/
+bš
+/
+bash
+
+
+2 
+	gsmbmouÁ
+
+
+	@/media/storage/programming/shell/tar.sh
+
+1 #!/
+bš
+/
+bash
+
+
+2 
+	gr
+ -
+	gcvvf
+ /
+	gmedŸ
+/
+	g¡Üage
+/
+	g´og¿mmšg
+/
+	gsh–l
+/
+	gšşude
+.¸/
+	gu¤
+/include/
+
+	@/media/storage/programming/shell/temp.sh
+
+1 #!/
+bš
+/
+bash
+
+
+2 
+	gx
+=`
+echo
+ 
+$0
+ | 
+g»p
+ "^/"`
+
+3 
+echo
+ 
+$x
+
+
+4 
+x
+=
+huªgyšgw
+
+
+5 
+echo
+ $x
+
+	@/media/storage/programming/shell/temp/batch_mv.sh
+
+1 #!/
+bš
+/
+bash
+
+
+3 
+	g
+=
+$1
+
+
+4 
+f’ame
+ 
+š
+ `
+ls
+`
+
+6 
+mv
+ 
+$f’ame
+ 
+$
+{
+f’ame
+}.
+$
+
+
+	@/media/storage/programming/shell/ubuntu/ubuntu_edgy/auto_install.sh
+
+1 #´og¿mm” : 
+kËrÿt
+
+
+2 #ubuÁu 
+ed™iÚ
+ : 6.10(
+edgy
+)
+
+3 #soáw¬e-
+li¡
+ :
+
+5 #wqy 
+fÚt
+
+
+6 #scim-
+bridge
+
+
+8 #medŸ-
+¶ay”
+
+
+14 
+	gecho
+ "------------------------------"
+
+15 
+	gecho
+ "| Ubuntuƒdgy Auto installer |"
+
+16 
+	gecho
+ "------------------------------"
+
+17 
+	g´štf
+ "OÆy fÜƒdgy(6.10),gØÚ?(y/N):";
+»ad
+ 
+ye¢o
+
+
+18 
+	g‹¡
+ "$ye¢o" !ğ"y";
+th’
+
+
+19 
+	gecho
+ "---------------------"
+
+20 
+	gecho
+ "| Thank you,Goodbye |"
+
+21 
+	gecho
+ "---------------------"
+
+22 
+	gex™
+ 0
+
+23 
+	gfi
+
+
+25 #š¡®È
+­t
+ 
+sourûs
+
+
+26 
+	g´štf
+ "DØyou wªˆtØchªgyou¸­ˆsourûs?(y/N)";
+»ad
+ 
+ye¢o
+
+
+27 
+	g‹¡
+ "$ye¢o" =ğ"y";
+th’
+
+
+28 
+	gecho
+ "Backup‡pt sources..."
+
+29 
+sudo
+ 
+	gı
+ /
+	g‘c
+/
+	g­t
+/
+	gsourûs
+.
+	gli¡
+ /‘c/­t/sourûs.li¡.
+backup
+
+
+30 
+sudo
+ 
+	grm
+ /
+	g‘c
+/
+	g­t
+/
+	gsourûs
+.
+li¡
+
+
+31 
+sudo
+ 
+	gtouch
+ /
+	g‘c
+/
+	g­t
+/
+	gsourûs
+.
+li¡
+
+
+32 
+sudo
+ 
+chown
+ 
+$
+(
+whßmi
+è/
+	g‘c
+/
+	g­t
+/
+	gsourûs
+.
+li¡
+
+
+34 
+	g´štf
+ "DØyou wªˆtØš¡®Èthsourû fÜm Beijšg-edu-ÃtwÜk?(y/N)";
+»ad
+ 
+ye¢o
+
+
+35 
+	g‹¡
+ "$ye¢o" =ğ"y";
+th’
+
+
+36 
+sudo
+ 
+ÿt
+ 
+	gd©a
+/
+	gsourûs_edu_beijšg
+ >> /
+	g‘c
+/
+	g­t
+/
+	gsourûs
+.
+li¡
+
+
+37 
+	gecho
+ "Install finished"
+
+38 
+fi
+
+
+40 
+	g´štf
+ "DØyou wªˆtØš¡®Èthsourû fÜm Shªghai-edu-ÃtwÜk?(y/N)";
+»ad
+ 
+ye¢o
+
+
+41 
+	g‹¡
+ "$ye¢o" =ğ"y";
+th’
+
+
+42 
+sudo
+ 
+ÿt
+ 
+	gd©a
+/
+	gsourûs_edu_shªghai
+ >> /
+	g‘c
+/
+	g­t
+/
+	gsourûs
+.
+li¡
+
+
+43 
+	gecho
+ "Install finished"
+
+44 
+fi
+
+
+46 
+	g´štf
+ "DØyou wªˆtØš¡®Èthsourû fÜm Taiwª-Ãtcom-ÃtwÜk?(y/N)";
+»ad
+ 
+ye¢o
+
+
+47 
+	g‹¡
+ "$ye¢o" =ğ"y";
+th’
+
+
+48 
+sudo
+ 
+ÿt
+ 
+	gd©a
+/
+	gsourûs_Ãtcom_iwª
+ >> /
+	g‘c
+/
+	g­t
+/
+	gsourûs
+.
+li¡
+
+
+49 
+	gecho
+ "Install finished"
+
+50 
+fi
+
+
+52 
+	g´štf
+ "DØyou wªˆtØš¡®Èthsourû fÜm Fuzhou-‹Ëcom-ÃtwÜk?(y/N)";
+»ad
+ 
+ye¢o
+
+
+53 
+	g‹¡
+ "$ye¢o" =ğ"y";
+th’
+
+
+54 
+sudo
+ 
+ÿt
+ 
+	gd©a
+/
+	gsourûs_‹Ëcom_fuzhou
+ >> /
+	g‘c
+/
+	g­t
+/
+	gsourûs
+.
+li¡
+
+
+55 
+	gecho
+ "Install finished"
+
+56 
+fi
+
+
+58 
+	g´štf
+ "DØyou wªˆtØš¡®Èthsourû fÜm JŸngsu-‹Ëcom-ÃtwÜk?(y/N)";
+»ad
+ 
+ye¢o
+
+
+59 
+	g‹¡
+ "$ye¢o" =ğ"y";
+th’
+
+
+60 
+sudo
+ 
+ÿt
+ 
+	gd©a
+/
+	gsourûs_‹Ëcom_jŸngsu
+ >> /
+	g‘c
+/
+	g­t
+/
+	gsourûs
+.
+li¡
+
+
+61 
+	gecho
+ "Install finished"
+
+62 
+fi
+
+
+64 
+	g´štf
+ "DØyou wªˆtØš¡®Èthsourû fÜm Shªghai-‹Ëcom-ÃtwÜk?(y/N)";
+»ad
+ 
+ye¢o
+
+
+65 
+	g‹¡
+ "$ye¢o" =ğ"y";
+th’
+
+
+66 
+sudo
+ 
+ÿt
+ 
+	gd©a
+/
+	gsourûs_‹Ëcom_shªghai
+ >> /
+	g‘c
+/
+	g­t
+/
+	gsourûs
+.
+li¡
+
+
+67 
+	gecho
+ "Install finished"
+
+68 
+fi
+
+
+70 
+	g´štf
+ "DØyou wªˆtØš¡®Èthsourû fÜm ZhejŸng-‹Ëcom-ÃtwÜk?(y/N)";
+»ad
+ 
+ye¢o
+
+
+71 
+	g‹¡
+ "$ye¢o" =ğ"y";
+th’
+
+
+72 
+sudo
+ 
+ÿt
+ 
+	gd©a
+/
+	gsourûs_‹Ëcom_zhejŸng
+ >> /
+	g‘c
+/
+	g­t
+/
+	gsourûs
+.
+li¡
+
+
+73 
+	gecho
+ "Install finished"
+
+74 
+fi
+
+
+75 
+	gfi
+
+
+78 
+	gecho
+ "update..."
+
+79 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+upd©e
+
+
+80 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+	gdi¡
+-
+	gupg¿de
+
+
+82 #wqy 
+fÚt
+
+
+83 
+	g´štf
+ "DØyou wªˆtØš¡®ÈW’qŸny˜B™m­ fÚt?(y/N)";
+»ad
+ 
+ye¢o
+
+
+84 
+	g‹¡
+ "$ye¢o" =ğ"y";
+th’
+
+
+85 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gxfÚts
+-
+wqy
+
+
+86 
+	gfi
+
+
+88 #scim-
+bridge
+
+
+89 
+	g´štf
+ "DØyou wªˆtØš¡®Èscim-bridge?(y/N)";
+»ad
+ 
+ye¢o
+
+
+90 
+	g‹¡
+ "$ye¢o" =ğ"y";
+th’
+
+
+91 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gscim
+-
+bridge
+
+
+92 
+sudo
+ 
+ı
+ 
+	gd©a
+/
+	gscim
+ /
+	g‘c
+/
+	gX11
+/
+	gxš™
+/
+	gxšput
+.
+	gd
+/
+scim
+
+
+93 
+	gfi
+
+
+96 
+	g´štf
+ "DØyou wªˆtØš¡®ÈEVA?(y/N)";
+»ad
+ 
+ye¢o
+
+
+97 
+	g‹¡
+ "$ye¢o" =ğ"y";
+th’
+
+
+98 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+eva
+
+
+99 
+	gfi
+
+
+101 #medŸ-
+¶ay”
+
+
+102 
+	g´štf
+ "DØyou wªˆtØš¡®ÈmedŸ-¶ay”?(y/N)";
+»ad
+ 
+ye¢o
+
+
+103 
+	g‹¡
+ "$ye¢o" =ğ"y";
+th’
+
+
+104 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gb“p
+-
+	gmedŸ
+-
+¶ay”
+ 
+	gtÙem
+-
+xše
+ 
+w32codecs
+ 
+	glibxše
+-
+exŒacodecs
+
+
+105 
+	gfi
+
+
+108 
+	g´štf
+ "DØyou wªˆtØš¡®Èazu»us(BT)?(y/N)";
+»ad
+ 
+ye¢o
+
+
+109 
+	g‹¡
+ "$ye¢o" =ğ"y";
+th’
+
+
+110 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+azu»us
+
+
+111 
+	gfi
+
+
+114 
+	g´štf
+ "DØyou wªˆtØš¡®È¡¬diù?(y/N)";
+»ad
+ 
+ye¢o
+
+
+115 
+	g‹¡
+ "$ye¢o" =ğ"y";
+th’
+
+
+116 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+¡¬diù
+ 
+	g¡¬diù
+-
+commÚ
+ srdiù-
+	gcdiù
+-
+gb
+ srdiù-
+	gûdiù
+-gb srdiù-
+hªzim
+ srdiù-
+	gÏngdao
+-
+	gû
+-gb srdiù-Ïngdao-
+	gec
+-gb srdiù-
+	goxfÜd
+-gb srdiù-
+	gxdiù
+-ce-gb stardict-xdict-ec-gb
+
+117 
+	gfi
+
+
+120 
+	g´štf
+ "DØyou wªˆtØš¡®Èjava?(y/N)";
+»ad
+ 
+ye¢o
+
+
+121 
+	g‹¡
+ "$ye¢o" =ğ"y";
+th’
+
+
+122 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gsun
+-
+	gjava5
+-
+jdk
+
+
+123 
+	gfi
+
+
+128 
+	gecho
+ "-----------------------------"
+
+129 
+	gecho
+ "| Install finished,have fun |"
+
+130 
+	gecho
+ "|…rogrammer : killercat |"
+
+131 
+	gecho
+ "|ƒmail : killercat@126.com |"
+
+132 
+	gecho
+ "-----------------------------"
+
+134 
+	gex™
+ 0
+
+	@/media/storage/programming/shell/untar.sh
+
+1 #!/
+bš
+/
+bash
+
+
+2 
+	gr
+ -
+	gxvvf
+ /
+	gmedŸ
+/
+	g¡Üage
+/
+	glšux
+/
+	gRedH©
+.9.0.
+	g¤c
+.¸-
+	gC
+ /media/storage/linux/src/
+
+	@/media/storage/programming/shell/untar.tar.bz2.sh
+
+1 #!/
+bš
+/
+bash
+
+
+2 
+r
+ 
+jxvf
+ 
+	gmldÚkey
+-2.9.6.
+	gr
+.
+	gbz2
+
+
+	@/media/storage/programming/shell/untar.tar.gz.sh
+
+1 #!/
+bš
+/
+bash
+
+
+2 
+	gr
+ -
+	gxvvzf
+ /
+	gmedŸ
+/
+	g¡Üage
+/
+	glšux
+/
+	gglibc
+-2.2.5.r.
+	ggz
+ -
+	gC
+ /media/storage/linux/glibc
+
+	@daily_software_install.sh
+
+1 #!/
+bš
+/
+bash
+
+
+2 #. `
+which
+ 
+sh
+-
+šşude
+`
+
+3 #šşud
+feG‘Lše
+
+
+4 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ghtİ
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+5 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ghib”Ç‹
+
+
+6 #/
+medŸ
+/
+¡Üage
+/
+soáw¬e
+/
+lšux_soáw¬e
+/
+vmw¬e
+/64/vmw¬e-
+di¡rib
+/vmw¬e-
+š¡®l
+.
+¶
+
+
+7 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+m¶ay”
+
+
+8 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gsysv
+-
+	grc
+-
+	gcÚf
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+9 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	g§mba
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+10 
+	gsourû
+ /
+	gmedŸ
+/
+	gcom´eh’sive
+/
+	g´og¿mmšg
+/
+	gsh–l
+/
+	gbackup
+.
+	gsh
+
+
+11 #dpkg -
+i
+ /
+medŸ
+/
+¡Üage
+/
+soáw¬e
+/
+lšux_soáw¬e
+/
+NX
+/64/NX\ 
+F»e
+\ 
+Ed™iÚ
+/
+nxnode_3
+.2.0-10
+_x86_64
+.
+deb
+ --
+fÜû
+-
+yes
+ -
+y
+
+
+12 #dpkg -
+i
+ /
+medŸ
+/
+¡Üage
+/
+soáw¬e
+/
+lšux_soáw¬e
+/
+NX
+/64/NX\ 
+F»e
+\ 
+Ed™iÚ
+/
+nxş›Á_3
+.2.0-9
+_x86_64
+.
+deb
+ --
+fÜû
+-
+yes
+ -
+y
+
+
+13 #dpkg -
+i
+ /
+medŸ
+/
+¡Üage
+/
+soáw¬e
+/
+lšux_soáw¬e
+/
+NX
+/64/NX\ 
+F»e
+\ 
+Ed™iÚ
+/
+nx£rv”_3
+.2.0-13
+_x86_64
+.
+deb
+ --
+fÜû
+-
+yes
+ -
+y
+
+
+14 
+	gdpkg
+ --
+	gcÚfigu»
+ -
+a
+
+
+15 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	geş£
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+16 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gdhı3
+-
+	g£rv”
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+17 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+©ápd
+ 
+	g©áp
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+18 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gvsápd
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+19 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gªju
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+20 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gªju
+-
+	gcommÚ
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+21 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	g­ache
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+22 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	g©
+-
+	g¥i
+-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+23 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gautobook
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+24 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gautocÚf
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+25 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gautocÚf2
+.13 --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+26 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gautocÚf
+-
+	g¬chive
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+27 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gautog’
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+28 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gautomake
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+29 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gbisÚ
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+30 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gùags
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+31 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gcvs
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+32 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gdevh–p
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+33 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gdevh–p
+-
+	gbooks
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+34 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gexub”ªt
+-
+	gùags
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+35 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gæex
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+36 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gg
+++ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+37 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gg77
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+38 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggcc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+39 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggcj
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+40 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggda2
+-
+	gä“tds
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+41 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggda2
+-
+	gmysql
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+42 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggda2
+-
+	godbc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+43 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggda2
+-
+	gpo¡g»s
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+44 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggda2
+-
+	gsql™e
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+45 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggÏde
+-2 --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+46 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggÏde
+-
+	gdoc
+-2 --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+47 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggÏde
+-
+	ggnome
+-2 --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+48 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggnome
+-
+	gdev–
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+49 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggnu
+-
+	g¡ªd¬ds
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+50 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggnus
+-
+	gbš
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+51 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gh‰pd
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+52 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gšd’t
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+53 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibcom´ess
+-
+	gzlib
+-
+	g³¾
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+54 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibga
+-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+55 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibglib2
+.0-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+56 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibgnome2
+-
+	gdev
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+57 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibgnome2
+-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+58 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibgnomeÿnvas2
+-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+59 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibgnomemm2
+.0-
+	gdev
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+60 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibgnomeui
+-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+61 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibgtk2
+.0-
+	gdev
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+62 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibgtk2
+.0-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+63 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibgtkmm2
+.0-
+	gdev
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+64 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibgtkmm2
+.0-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+65 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibhtml
+-
+	gfÜm©
+-
+	g³¾
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+66 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibio
+-
+	gsock‘
+-
+	gs¦
+-
+	g³¾
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+67 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibÉdl3
+-
+	gdev
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+68 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibmatoŞs
+-
+	g³¾
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+69 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glib·ngo1
+.0-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+70 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibpüe3
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+71 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glib¡dc
+++5-3.3-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+72 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibtoŞ
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+73 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibtoŞ
+-
+	gdoc
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+74 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gmª·ges
+-
+	gdev
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+75 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gm’u
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+76 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gÜb™2
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+77 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	g¡l
+-
+	gmªu®
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+78 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gsh¬ed
+-
+	gmime
+-
+	gšfo
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+79 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	g‰f
+-
+	gthryomªes
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+84 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gxpdf
+-
+	gchše£
+-
+sim¶if›d
+ xpdf-chše£-
+Œad™iÚ®
+ 
+	gpİ¶”
+-
+	gd©a
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+85 #wg‘ 
+h‰p
+:
+
+86 #¸-
+zxvf
+ 
+š¡®l_æash_¶ay”_9_lšux
+.
+r
+.
+gz
+
+
+87 #cd 
+š¡®l_æash_¶ay”_9_lšux
+/ && ./
+æash¶ay”
+-
+š¡®Ër
+
+
+88 #sudØ
+wg‘
+ 
+h‰p
+:
+
+89 #sudØ
+­t
+-
+g‘
+ 
+upd©e
+ && 
+sudo
+‡±-g‘ 
+š¡®l
+ 
+w64codecs
+
+
+90 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gmedibuÁu
+-
+	gkeyršg
+
+
+91 #sudØ
+­t
+-
+g‘
+ 
+upd©e
+
+
+92 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	glibxše1
+-
+ffm³g
+†ibxše1-
+	g®l
+-
+¶ugšs
+†ibxše1-¶ugš 
+w32codecs
+ 
+	ggcc
+-3.3-
+ba£
+ 
+	glib¡dc
+++5 --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+93 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gg¡»am”0
+.10-
+ffm³g
+ g¡»am”0.10-
+p™fdÎ
+ g¡»am”0.10-
+	g¶ugšs
+-
+bad
+ g¡»am”0.10-¶ugšs-
+	gbad
+-
+muÉiv”£
+ g¡»am”0.10-¶ugšs-
+ugly
+ g¡»am”0.10-¶ugšs-
+	gugly
+-muÉiv”£ g¡»am”0.10-
+	gesd
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+94 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+libdvdÇv4
+ 
+libdvd»ad3
+ 
+	glibdvdcss2
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+95 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+»move
+ 
+	gtÙem
+-
+	gmozÏ
+ -
+y
+
+
+96 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+sm¶ay”
+ 
+	gsm¶ay”
+-
+themes
+ 
+	gmozÏ
+-
+	gm¶ay”
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+97 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gg¡»am”0
+.10-
+	gæu’do
+-
+m³gdemux
+ g¡»am”0.10-
+	ggnÚlš
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+98 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gbud
+-
+es£ÁŸl
+ 
+autocÚf
+ 
+	gautomake1
+.9 
+cvs
+ 
+	gsubv”siÚ
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+99 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+uÄ¬
+ 
+	gp7z
+-
+fuÎ
+ 
+	gÿbexŒaù
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+103 #°²×°
+SrDiù
+·­Òë´Êµä
+
+104 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+¡¬diù
+ 
+	g¡¬diù
+-
+	gcommÚ
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+105 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	g¡¬diù
+-
+	gcdiù
+-
+gb
+ srdiù-
+	gûdiù
+-gb srdiù-
+hªzim
+ srdiù-
+	gÏngdao
+-
+	gû
+-gb srdiù-Ïngdao-
+	gec
+-gb srdiù-
+	goxfÜd
+-gb srdiù-
+	gxdiù
+-û-gb srdiù-xdiù-ec-
+	ggb
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+107 #°²×°ä¯ÀÀÆ÷
+FÏsh
+²å¼ş£º
+
+108 
+sudo
+ 
+	gmkdœ
+ -
+	gp
+ /
+	gu¤
+/
+	glib
+/
+	gX11
+/
+	gfÚts
+/
+Ty³1
+
+
+109 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gæash¶ugš
+-
+	gnÚä“
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+111 #°²×°ÏÂÔØ¹¤¾ß
+DowÆßd”_fÜ_X
+
+
+112 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gd4x
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+113 #°²×° 
+BT
+¹¤¾ß
+
+114 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gazu»us
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+115 #°²×°
+amuË
+¹¤¾ß
+
+116 #Ö»Òª¼ÓÈëÒÔÏÂ
+IP
+¾Í¿ÉÒÔ×Ô¶¯½«ËùÓĞµÄIPÁĞ¾Ù³öÀ´ÁË¡£Ãû³Æ£º
+DÚkeyS”v”
+ 
+No1
+ µØÖ·£º62.241.53.2:4242
+
+117 #ED2K·şÎñÆ÷ÁĞ±í,ÔÚ
+£rv”
+À¸ÖĞ·ÖÅú´ÎÊäÈë:
+h‰p
+:
+
+118 #KAD ¸üĞÂµØÖ· ¿ÉÒÔÓÃ:
+h‰p
+:
+
+119 #Èç¹ûĞèÒª½« 
+aMuË
+ Óë 
+Fœefox
+ ä¯ÀÀÆ÷Ïà¹ØÁª£¬¿ÉÒÔ°Ñ 
+ÃtwÜk
+.
+´ÙocŞ
+-
+hªdËr
+.
+­p
+.
+ed2k
+ µÄ×Ö·û´®ÉèÖÃÎª /
+u¤
+/
+bš
+/ed2k¡£
+
+120 #È»ºóÔÚ
+Fœefox
+ÀïÃæ¹ØÁª
+ed2k
+Á´½Ó¡£
+
+121 #ÔÚµØÖ·À¸ÊäÈë
+about
+:
+cÚfig
+
+
+122 #ĞÂ½¨¡°²¼¶û¡± Ãû³Æ£º
+ÃtwÜk
+.
+´ÙocŞ
+-
+hªdËr
+.
+ex‹º®
+.
+ed2k
+ Öµ£º
+Œue
+
+
+123 #ĞÂ½¨¡°×Ö·û´®¡± Ãû³Æ£º
+ÃtwÜk
+.
+´ÙocŞ
+-
+hªdËr
+.
+­p
+.
+ed2k
+ Öµ£º/
+u¤
+/
+bš
+/ed2k
+
+124 #ÁíÍâ£¬×îºÃ½«
+amuË
+µÄ
+Nick
+(ÓÃ»§êÇ³Æ)¸Ä³É [
+CHN
+][
+V”yCD
+]
+youºame
+
+
+125 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+amuË
+ 
+	gamuË
+-
+	guts
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+128 #°²×°
+¿r
+Ö§³Ö
+
+129 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+¿r
+ 
+	guÄ¬
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+131 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gbud
+-
+	ges£ÁŸl
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+132 #°²×° 
+RSS
+ ĞÂÎÅÔÄ¶ÁÆ÷
+
+133 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gak»g©Ü
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+134 #°²×°
+FTP
+¹¤¾ß
+
+135 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	ggáp
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+137 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gÇutus
+-
+	gİ’
+-
+	g‹rmš®
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+138 #®›n--°Ñ
+½m
+°ü×ª»»³É
+deb
+°ü¡£Ê¹ÓÃÃüÁî£º
+®›n
+ 
+abc
+.rpm
+
+139 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	g®›n
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+143 #Am¬oKÊı×ÖÒôÀÖ²¥·ÅÆ÷(²å·Å
+mp3
+)£¬±»ÆÀÎª
+lšux
+ÏÂÊ®´ó×îÊÜ»¶Ó­Èí¼şÖ®Ò»¡£
+
+145 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gam¬ok
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+147 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+m¶ay”
+ 
+	gmozÏ
+-m¶ay” 
+	glibxše
+-
+exŒacodecs
+ 
+	gw32codecs
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+148 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gg¡»am”0
+.10-
+	g¶ugšs
+-
+ugly
+ g¡»am”0.10-
+p™fdÎ
+ g¡»am”0.10-
+	gffm³g
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+150 #m¶ay”²Ù×÷ËµÃ÷£º 
+F
+ = È«ÆÁ£¬
+P
+ = ÔİÍ£/¿ªÊ¼£¬
+O
+ = ÏÔÊ¾/Òş²Ø²¥·ÅÊ±¼ä£¬
+ALT
++·½Ïò¼ü = ²¥·Å½ø¶È
+
+152 #ÅäÖÃ
+m¶ay”
+
+
+153 (
+	gecho
+ '$a';
+
+154 
+	gecho
+ 'ao=alsa #ÒôÆµÇı¶¯Ñ¡Ôñ';
+
+155 
+	gecho
+ 'vo=x11 #ÊÓÆµÇı¶¯Ñ¡Ôñ';
+
+156 
+	gecho
+ 'joystick=0 #ÊÇ·ñÖ§³ÖÊÖ±ú¿ØÖÆ';
+
+157 
+	gecho
+ 'stop-xscreensaver=yes #ÊÇ·ñÔÊĞí²¥·ÅÊÓÆµÊ±³öÏÖÆÁ±£';
+
+158 
+	gecho
+ 'monitoraspect=1280:800 #Ê¶±ğ×ÀÃæ·Ö±æÂÊÎª1280¡Á800';
+
+159 
+	gecho
+ 'zoom=yes #ÊÇ·ñÔÊĞíÊÓÆµËõ·Å';
+
+160 
+	gecho
+ 'subcp=cp936 #×ÖÄ»×Ö·û¼¯±àÂë';
+
+161 
+	gecho
+ 'subfont-autoscale=1 #ÉèÖÃ°´Ê²Ã´·½·¨À´½øĞĞ×Ô¶¯Ëõ·Å×ÖÄ»£¬0£­²»×Ô¶¯Ëõ·Å£¬1£­°´µçÓ°¸ß¶ÈËõ·Å£¬2£­°´µçÓ°¿í¶ÈËõ·Å£¬3£­°´µçÓ°¶Ô½ÇÏßËõ·Å(Ä¬ÈÏÖµ)';
+
+162 
+	gecho
+ 'subfont-text-scale=5 #ÉèÖÃ×ÖÄ»ÎÄ±¾µÄ×Ô¶¯Ëõ·ÅÏµÊı(ÆÁÄ»³ß´çµÄ°Ù·Ö±È)£¬Öµ·¶Î§Îª0¡«100£¬Ä¬ÈÏÖµÎª5¡£';
+
+163 
+	gecho
+ 'subfont-osd-scale=8 #OSD×ÖÄ»µÄ×Ô¶¯Ëõ·ÅÏµÍ³(ÆÁÄ»³ß´çµÄ°Ù·Ö±È)£¬Öµ·¶Î§Îª0¡«100£¬Ä¬ÈÏÖµÎª6¡£';
+
+164 
+	gecho
+ 'font=/usr/share/fonts/zh_CN/msyh.ttf #Ñ¡Ôñ×ÖÄ»ÓÃµÄ×ÖÌå';
+
+165 
+	gecho
+ 'overlapsub=1 #Ö§³Ö¶àÓïÑÔ×ÖÄ»¡£';
+
+166 
+	gecho
+ 'sub-fuzziness=1 #Éè¶¨×ÖÄ»×Ô¶¯¼ÓÔØµÄÊ¶±ğ£¬²¥·ÅÊ±¿ÉÒÔÍ¨¹ıj¼üÇĞ»»¡£';
+
+167 
+	gecho
+ 'osdlevel=1 #OSDÀàĞÍ£¬0²»ÏÔÊ¾£»1Ö»ÏÔÊ¾½ø¶È(½öÔÚ¿ì½ø¿ìÍËÊ±)£»2ÏÔÊ¾²¥·ÅÊ±¼ä£»3ÏÔÊ¾²¥·ÅÊ±¼äºÍÊ£ÓàÊ±¼ä';
+
+168 
+	gecho
+ 'cache = 8192 #´ËÑ¡ÏîÖ¸¶¨ÓÃ¶àÉÙÄÚ´æ(ÒÔ kBytes Îªµ¥Î»)×÷Îª²¥·ÅÎÄ¼ş»ò URL µÄÔ¤»º³å';
+
+169 
+	gecho
+ '.';ƒchØ'wq'è| 
+	ged
+ -
+	gs
+ ~/.
+	gm¶ay”
+/
+	gcÚfig
+
+
+173 #°²×°ÖĞÎÄÊäÈë·¨£º
+fc™x
+ £¨×¢£º×°ºÃºóÔÚ»á»°Àï¼ÓÒ»¸öÆô¶¯Ïî£ºfcitx£¬³ı·ÇÄãÏëÃ¿´ÎÓÃ¶¼´òfcitxÃüÁî£©
+
+174 #ĞŞ¸ÄÅäÖÃÎÄ¼ş ~/.
+fc™x
+/
+cÚfig
+
+
+177 #ÊäÈëÌõÆ«ÒÆÁ¿
+X
+=9 #ÊäÈë´°¿ÚÀë¿ªµÃÔ¶Ò»Ğ©
+
+178 #ÊäÈëÌõÆ«ÒÆÁ¿
+Y
+=22
+
+180 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gim
+-
+fc™x
+ 
+	glib­t
+-
+	gpkg
+-
+	g³¾
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+182 
+sudo
+ 
+	gim
+--
+s
+ 
+	gfc™x
+
+
+186 #ÔÄ¶Á
+CHM
+ÎÄ¼ş£¬
+chm£e
+¶ÔÄ³Ğ©²»¹æ·¶µÄ
+chm
+ÎÄ¼şÖ§³ÖĞ§ºÃ£¬ 
+gnochm
+Ö§³ÖËÑË÷
+
+187 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+chm£e
+ 
+	ggnochm
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+188 #LšuxÏÂµÄ
+QQ
+¿Í»§¶Ë--
+eva
+
+
+189 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	geva
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+190 #½â¾öÔÚ
+eva
+ÎŞ·¨Ê¹ÓÃ
+scim
+ÊäÈë·¨µÄÎÊÌâ(Èç¹ûÓÃ
+fc™x
+ÊäÈë·¨£¬´Ë²½¿ÉÊ¡)
+
+191 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gscim
+-
+	gqtimm
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+192 #°²×° 
+Pidgš
+.
+Gaim
+ ÒÑ¾­¸ÄÃûÎª Pidgin
+
+193 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gpidgš
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+194 #×ÀÃæËÑË÷£¬¹¦ÄÜÀàËÆÓÚ
+GOOGLE
+µÄÄÇ¸ö×ÀÃæËÑË÷¡£°²×°ºóÔÚ¡°¸½¼ş¡±²Ëµ¥¿ÉÕÒµ½Ò»¸ö¡°ËÑË÷¡±Ïî
+
+195 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gb—gË
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+198 #ıuäequts£­£­µ÷½Ú
+CPU
+ÆµÂÊ
+
+199 #¼àÊÓ
+ıu
+ÆµÂÊ£ºÓÒ¼üµ¥»÷Ãæ°å£¬Ñ¡Ôñ¡°Ìí¼Óµ½Ãæ°å¡±£¬ÀïÃæÕÒµ½¡°cpuÆµÂÊ·¶Î§¼àÊÓÆ÷¡±¡£
+
+200 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gıuäequts
+ --
+	gfÜû
+-
+	gyes
+ -
+y
+
+
+201 
+sudo
+ 
+	gıuäeq
+-
+	g£t
+ -
+g
+ 
+	gÚdemªd
+
+
+202 #Ö´ĞĞ
+ıuäeq
+-
+šfo
+¿É¿´µ½
+CPU
+ËùÖ§³ÖµÄÄ£Ê½£¬´óÖÂÓĞÈçÏÂ¼¸ÖÖ£º
+
+205 #Údemªd£¬Ò»ÓĞ
+ıu
+¼ÆËãÈÎÎñ£¬Á¢¼´´ïµ½×î´óÆµÂÊ£¬Ö´ĞĞÍê±ÏÁ¢¼´»Øµ½×îµÍÆµÂÊ
+
+209 #¼àÊÓ
+CPU
+ÎÂ¶È£º
+
+210 #Ìí¼Óµ½Ãæ°åµÄÏîµÄÃû×Ö½Ğ¡°
+H¬dw¬e
+ 
+£nsÜs
+ 
+mÚ™Ü
+"
+
+211 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	g£nsÜs
+-
+	g­¶‘
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+220 #¿ª·¢
+JAVA
+³ÌĞòµÄ
+JDK
+»·¾³(Èç¹û½öÊÇÔËĞĞ
+Java
+³ÌĞò£¬¿ÉÓÃ
+sun
+-
+java6
+-
+j»
+)
+
+221 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gsun
+-
+	gjava6
+-
+	gjdk
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+222 #°²×°ä¯ÀÀÆ÷µÄ
+JAVA
+ 
+Plugš
+
+
+223 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gsun
+-
+	gjava6
+-
+	g¶ugš
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+224 #°²×°
+MySQL
+
+
+225 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gmysql
+-
+£rv”
+ mysql-
+	gş›Á
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+227 
+	gmysqÏdmš
+ -
+uroÙ
+ 
+·sswÜd
+ 
+	gove03180118
+
+
+228 #ÖØÆô¶¯
+mysql
+·şÎñ£¨´Ë²½¿ÉÊ¡£©
+
+229 #mysqÏdmš -
+uroÙ
+ -
+pove03180118
+ 
+shutdown
+
+
+231 #ºÍ
+Visio
+ÀàËÆµÄ
+dŸ
+£¨Ä¬ÈÏÖ»ÄÜÔÚÃüÁîĞĞÆô¶¯£©
+
+232 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gdŸ
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+233 #»­
+UML
+Í¼µÄ
+umb»Îo
+
+
+234 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gumb»Îo
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+247 #ArŸl, 
+Tahoma
+, 
+Times
+ 
+New
+ 
+Romª
+¶¼ÊÇÏÔÊ¾ÍøÒ³ºÜÖØÒªµÄ×ÖÌå
+
+248 
+sudo
+ 
+	g­t
+-
+g‘
+ 
+š¡®l
+ 
+	gm¡tcÜefÚts
+ --
+	gfÜû
+-
+	gyes
+ -
+	gy
+
+
+250 #½«
+Lucida
+ 
+G¿nde
+×ÖÌå¸´ÖÆµ½~/.
+fÚts
+/£¬ÓÃ¡°ÏµÍ³->Ê×Ñ¡Ïî->×ÖÌå¡±°Ñ×ÖÌåµ÷Õû³ÉLucid¨G¿nde£¬×îºóÒ»¸öµÈ¿íµ÷ÕûÎªLucid¨
+CÚsŞe
+¡£
+
+251 #ÕâÊ±ÏÔÊ¾Ğ§¹û¿Ï¶¨ºÜÔã¸â£¬ÎÒÃÇĞèÒª°Ñ
+autohštšg
+´ò¿ª¡£ÔÚÄãµÄÓÃ»§Ä¿Â¼ÏÂÌí¼ÓÒ»¸öÎÄ¼ş
+
+252 
+	grm
+ ~/.
+	gfÚts
+.
+cÚf
+
+
+253 
+	gecho
+ '<?xmÈv”siÚ="1.0"?>' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+254 
+	gecho
+ '<!DOCTYPE fÚtcÚfig SYSTEM "fÚts.dtd">' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+255 
+	gecho
+ '<fÚtcÚfig>' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+256 
+	gecho
+ ' <m©ch¬g‘="fÚt">' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+257 
+	gecho
+ ' <‹¡ com·»="mÜe"‚ame="pix–size" qu®="ªy">' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+258 
+	gecho
+ ' <doubË>12</doubË>' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+259 
+	gecho
+ ' </‹¡>' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+260 
+	gecho
+ ' <ed™‚ame="autohšt" mode="assign" >' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+261 
+	gecho
+ ' <boŞ>Œue</boŞ>' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+262 
+	gecho
+ ' </ed™>' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+263 
+	gecho
+ ' </m©ch>' >> ~/.
+	gfÚts
+.
+cÚf
+
+
+264 
+	gecho
+ '</fÚtcÚfig>' >> ~/.
+	gfÚts
+.
+	gcÚf
+
+
+266 #ÖØĞÂµÇÂ¼£¬×ÖÌåÏÔÊ¾Ó¦¸ÃºÃÁË²»ÉÙ¡£²»¹ıÎÒÃÇ»¹Ã»Íê³É£¬Èç¹û×ĞÏ¸¹Û²ì£¬Ğ¡×ÖÌåµÄÏÔÊ¾»¹ÊÇÆÄÎªÄ£ºı¡£ĞÒÔËµÄÊÇÏÖÔÚÓĞÈËÌá¹©ÁË¼ÓÉÏ
+·tch
+µÄÕâ¼¸¸ö°üµÄ
+»pos™Üy
+£¬ÎÒÃÇ¿ÉÒÔºÜ·½±ãµØ°²×°£º
+
+268 #sudØ
+ged™
+ /
+‘c
+/
+­t
+/
+sourûs
+.
+li¡
+
+
+270 #deb 
+h‰p
+:
+
+271 #deb-
+¤c
+ 
+h‰p
+:
+
+273 #È»ºóÔÚÃüÁîĞĞÏÂ£¬ÏÂÔØ
+gÅ
+ 
+key
+£º
+
+274 
+wg‘
+ 
+	gh‰p
+:
+
+277 
+sudo
+ 
+­t
+-
+g‘
+ 
+š¡®l
+ 
+libä“ty³6
+ 
+libÿœo2
+ 
+libxá2
+
+
+280 #×îºó¶¯Ò»ÏÂ×ÖÌåÉèÖÃ£¬ÎÒÓÃµÄÊÇ(
+Autohštšg
+->
+Always
+->
+No
+ 
+b™m­s
+£©£¬Õâ¸öÃüÁîĞèÒª»Ø´ğÎÊÌâ¡£
+
+281 
+sudo
+ 
+dpkg
+-
+»cÚfigu»
+ 
+fÚtcÚfig
+-
+cÚfig
+
+
+282 
+sudo
+ 
+dpkg
+-
+»cÚfigu»
+ 
+fÚtcÚfig
+
+
+283 #ÍË³öÖØĞÂµÇÂ¼£¬×ÖÌåÊÇ²»ÊÇÇåÎúÁËºÜ¶à£¿×¢ÒâÄãä¯ÀÀÆ÷µØÖ·À¸ÀïµÄ¡°
+www
+¡°£¬Ğ±ÏßÃ»ÓĞÁËÃ«±ß¡£
+
+290 #°²×°
+PDF
+ÔÄ¶ÁÆ÷£­£­
+Aüob©7
+.0
+
+291 #ËäÈ»
+ubuÁu
+×Ô´øµÄÎÄµµ²é¿´Æ÷¿ÉÒÔ¿´
+PDF
+£¬µ«ÓĞĞ©PDFÎÄ¼ş²»Ì«¹æ·¶£¬´Ó¶øµ¼ÖÂÂÒÂë¡£ÕâÊ±¾ÍĞèÒªÓÃ¹Ù·½µÄ 
+Aüob©
+ÁË£¬²»¹ıÕâ¸öÈí¼ş½Ï´ó£¬Æô¶¯Ò²½ÏÂı¡£
+
+292 
+sudo
+ 
+­t
+-
+g‘
+ 
+š¡®l
+ 
+aüÜ—d
+ --
+fÜû
+-
+yes
+ -
+y
+
+
+294 #wg‘ 
+h‰p
+:
+
+295 #¸
+zxvf
+ 
+FÚtPack708_chs_i386
+-
+lšux
+.
+r
+.
+gz
+
+
+296 #½âÑ¹ºó£¬ÔËĞĞÆäÖĞµÄ
+INSTALL
+
+
+297 #sudØ./
+INSTALL
+
+
+298 #ÎÒÊÂÏÈ°Ñ
+FÚtPack708_chs_i386
+-
+lšux
+.
+r
+.
+gz
+½âÑ¹µ½
+aüob©7_ú
+Ä¿Â¼
+
+299 
+sudo
+ /
+v¬
+/
+ÿche
+/
+­t
+/
+¬chives
+/
+aüob©7_ú
+/
+INSTALL
+
+
+301 #µÚ¶ş¸öÎÊÌâÎÊÄãÊÇ·ñ½ÓÊÜĞ­Òé£¬¼üÈë
+acû±
+ºó»Ø³µ£»
+
+302 #µÚÈı¸öÎÊÌâÒªÄã¶¨Òå
+Aüob©
+µÄ°²×°Ä¿Â¼£¬ÊäÈë/
+u¤
+/
+lib
+/
+Adobe
+/
+Aüob©7
+.0ºó»Ø³µ¡£
+
+	@hello_world.sh
+
+1 #!/
+bš
+/
+bash
+
+
+2 #´šˆ
+h–lo
+ 
+wÜld
+
+
+3 
+	g´štch¬
+="hello world"
+
+4 
+echo
+ 
+$´štch¬
+
+
+	@
+1
+.
+1
+/usr/include
+29
+1313
+/media/storage/programming/shell/1.sh
+/media/storage/programming/shell/2.sh
+/media/storage/programming/shell/apt_bak.sh
+/media/storage/programming/shell/backup.sh
+/media/storage/programming/shell/batch_add_postfix.sh
+/media/storage/programming/shell/batch_mv.sh
+/media/storage/programming/shell/cscope-index.sh
+/media/storage/programming/shell/daily_software_install.sh
+/media/storage/programming/shell/debug.sh
+/media/storage/programming/shell/dir_name.sh
+/media/storage/programming/shell/err_trap.sh
+/media/storage/programming/shell/find-files.sh
+/media/storage/programming/shell/hello_world.sh
+/media/storage/programming/shell/move.sh
+/media/storage/programming/shell/read.sh
+/media/storage/programming/shell/restore_system_software.sh
+/media/storage/programming/shell/search-string.sh
+/media/storage/programming/shell/set_network.sh
+/media/storage/programming/shell/setfastsource.sh
+/media/storage/programming/shell/smbmount.sh
+/media/storage/programming/shell/tar.sh
+/media/storage/programming/shell/temp.sh
+/media/storage/programming/shell/temp/batch_mv.sh
+/media/storage/programming/shell/ubuntu/ubuntu_edgy/auto_install.sh
+/media/storage/programming/shell/untar.sh
+/media/storage/programming/shell/untar.tar.bz2.sh
+/media/storage/programming/shell/untar.tar.gz.sh
+daily_software_install.sh
+hello_world.sh
