@@ -1,10 +1,8 @@
 #! /bin/bash
 
 lv_file=/root/myproject/git/linux/shell/fundamental/log.txt
-#lvdisplay | grep -o "/dev.*" > $lv_file
+lvdisplay | grep -o "/dev.*" > $lv_file
 
-find "${lv_file}" -type f | while read file ; do
-   echo "prefix${file}"
+cat $lv_file | while read file ; do
+   echo "$file"
 done
-
-echo "mkdir"
