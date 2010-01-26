@@ -22,5 +22,5 @@ script_path=/root/myproject/git/linux/shell/fundamental/
 #find / \( -path  /media -o -path /var/backups -o -path /var/run \) -prune -o -name "*" -exec grep -wnHA5 kdiff3 {} \; > ${script_path}/find.log
 #find / -type f -name "*git*"> ${script_path}/find.log
 #find /usr -name \*.c -o -name "*.h" -exec grep -wnHA5 dirent {} \; > ${script_path}/find.log
-#find /  \( -path  /sys -o -path /var/backups -o -path /var/run \) -prune -exec grep -wnHA5 libflac8 {} \; > ${script_path}/find.log
-find  / -name "java" -type f > ${script_path}/find.log
+#find  / -name "java" -type f > ${script_path}/find.log
+find /  \( -path  /sys -o -path /var/backups -o -path /var/run \) -prune -exec grep -wnHA5 for {} \; > ${script_path}/find.log

@@ -1,15 +1,11 @@
-#! /bin/sh
-dir=/root/myproject/git/folder/
-for file in "`find ${dir} -type f`";
-do 
-		echo prefix${file}
-done
+#! /bin/bash
+#dir=/root/myproject/git/folder/
+#for file in "`find ${dir} -type f`";
+#do 
+#		echo \n prefix${file}
+#done
 
-s=0
-for (( i=1;  i<=100;  i=i+1 ))
+for ((i = 0;i<=5;i++))
 do
-   s=$(($s+$i))
+  echo "Welcome $i times"
 done
-echo $s
-exit 0
-
