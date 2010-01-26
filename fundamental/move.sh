@@ -9,7 +9,6 @@ then
 else   
  		rsync -av --recursive --delete -h --times --links --hard-links \
 			--stats --progress \
-			--exclude .svn \
 			"${RSYNCSOURCE}" "${RSYNCTARGET}" \
 		&& rm -frv "${RSYNCSOURCE}"
 fi
