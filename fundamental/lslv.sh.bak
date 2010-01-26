@@ -1,0 +1,2 @@
+#! /bin/sh
+lvdisplay | grep "/dev" > log.txt
