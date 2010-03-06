@@ -9,3 +9,4 @@ else
 	x=`echo $0 | sed -e 's/\.\///g'`
 	script_path=$(dirname `pwd`/${x})
 fi
+ln -s 
