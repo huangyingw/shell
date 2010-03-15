@@ -9,4 +9,4 @@ else
 	script_path=$(dirname `pwd`/${x})
 fi
 
-find /var/log -type f -daystart -mtime -1 > ${script_path}/find.log
+find / \( -path  /sys -o -path /root -o -path /proc \) -prune -o -type f -mmin +7 > ${script_path}/find.log
