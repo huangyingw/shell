@@ -9,4 +9,4 @@ else
 	script_path=$(dirname `pwd`/${x})
 fi
 
-find /media/myproject/git/linux/shell/ -path /media/myproject/git/linux/shell/folder -prune -o -type f -name "*jpg" > ${script_path}/find.log
+find /var/log -type f -daystart -mtime -1 > ${script_path}/find.log
