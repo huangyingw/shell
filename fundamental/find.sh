@@ -23,5 +23,5 @@ fi
 #find /usr -path "/media/" -prune  -path "/var/backups/" -prune  -path "/var/run/" -prune -o -name "*" -exec grep -wnHA5 kdiff3.exe {} \; >> ${script_path}/find.log
 #find / \( -path  /media -o -path /var/backups -o -path /var/run \) -prune -o -name "*" -exec grep -wnHA5 kdiff3 {} \; > ${script_path}/find.log
 #find /media/volgrp/software/os/linux/Ubuntu/ubuntu-9.10-desktop-i386  \( -path  /sys -o -path /var/backups -o -path /var/run \) -prune -exec grep -wnHA5 append {} \; > ${script_path}/find.log
-find /media/myproject/git/linux/shell/ -path /media/myproject/git/linux/shell/folder -prune -o -type f -name "*jpg" > ${script_path}/find.log
 #find /media/myproject/git/linux/shell/ -type f -name "*jpg" > ${script_path}/find.log
+find / \( -path  /sys -o -path /root -o -path /proc -o -path /media/smb -o -path /srv -o -path /opt \) -prune -o -type f -name "eclipse" > ${script_path}/find.log

@@ -9,4 +9,4 @@ else
 	script_path=$(dirname `pwd`/${x})
 fi
 
-find / \( -path  /sys -o -path /root -o -path /proc \) -prune -o -type f -mmin +7 > ${script_path}/find.log
+find / \( -path  /sys -o -path /root -o -path /proc -o -path /media/smb -o -path /usr/lib -o -path /sbin -o -path /usr/sbin -o -path /srv -o -path /usr -o -path /lib -o -path /opt \) -prune -o -type f -mmin +240 > ${script_path}/find.log
