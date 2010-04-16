@@ -1,5 +1,16 @@
+<<<<<<< HEAD
 /usr/share/tomcat6/webapps
 /media/myproject/git/java/lucene/kfzjdssyq开发自己的搜索引擎/Eclipse工程/heritrixProject/webapps
 /media/myproject/git/java/heritrix-1.14.3/webapps
 /media/smb
 /var/lib/tomcat6/webapps
+=======
+/sys
+/root
+/proc
+/srv
+/usr/lib/eclipse/eclipse
+/usr/bin/eclipse
+/opt
+/media/smb
+>>>>>>> 39007b2484332d999f68c6cce895e92c30afd30a
