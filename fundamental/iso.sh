@@ -8,6 +8,7 @@ target="${target}/`echo "${source}" |egrep -o '[^/]+[.](ISO|iso)'`"
 mkdir -p "${target}"
 rsync -av --recursive --delete -h --times --links --hard-links \
 			--stats --progress \
-			/media/cdrom/ "${target}"
+			/media/cdrom/ "${target}" \
+&& rm -frv "${source}"
 
 
