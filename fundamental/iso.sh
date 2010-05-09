@@ -1,14 +1,10 @@
 #! /bin/bash
 
-source=$1
-target=$2
+source=/home/huangyingw/GBTD-001\]\[Players.GameAoi\ Sora.ISO
+target=/home/huangyingw/folder
 
-rsync -av --recursive --delete -h --times --links --hard-links \
-			--stats --progress \
-			"${source}" "${target}"
-
-case "$1" in
-	s)
-		shutdown -h now
-		;;
-esac
+mount "${source}" /media/cdrom -o loop
+#rsync -av --recursive --delete -h --times --links --hard-links \
+#			--stats --progress \
+#			"${source}" "${target}"
+#
