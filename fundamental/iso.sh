@@ -1,7 +1,7 @@
 #! /bin/bash
 
-source=/media/volgrp/av/
-target=/media/back1/av/
+source=$1
+target=$2
 
 rsync -av --recursive --delete -h --times --links --hard-links \
 			--stats --progress \
