@@ -1,7 +1,7 @@
 #! /bin/bash
 
-source=/home/huangyingw/GBTD-001\]\[Players.GameAoi\ Sora.ISO
-target=/home/huangyingw/folder
+source=$1
+target=$2
 
 mount "${source}" /media/cdrom -o loop
 target="${target}/`echo "${source}" |egrep -o '[^/]+[.](ISO|iso)'`"
