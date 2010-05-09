@@ -5,7 +5,6 @@ source=/home/huangyingw/GBTD-001\]\[Players.GameAoi\ Sora.ISO
 target=/home/huangyingw/folder
 
 #mount "${source}" /media/cdrom -o loop
-#echo "${source}" |egrep -o '[^/]+[^1234567890]*[.]jpg'
 echo "${source}" |egrep -o '[^/]+[.](ISO|iso)'
 #rsync -av --recursive --delete -h --times --links --hard-links \
 #			--stats --progress \
