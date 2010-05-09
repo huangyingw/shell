@@ -6,7 +6,7 @@ target=$2
 mount "${source}" /media/cdrom -o loop
 target="${target}/`echo "${source}" |egrep -o '[^/]+[.](ISO|iso)'`"
 
-if [ -d $target ];
+if [ -d "${target}" ];
 then   
     echo dir exists
 else
@@ -15,7 +15,8 @@ else
 			--stats --progress \
 			/media/cdrom/ "${target}" \
 		&& rm -frv "${source}"
-fi
+		#echo dir does not exists
+fi  
 
 
 
