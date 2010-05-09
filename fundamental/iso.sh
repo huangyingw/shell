@@ -6,8 +6,8 @@ target=/home/huangyingw/folder
 
 #mount "${source}" /media/cdrom -o loop
 #echo "${source}" |egrep -o '[^/]+[.](ISO|iso)'
-echo "${target}"/`echo "${source}" |egrep -o '[^/]+[.](ISO|iso)'`
-#mkdir -p "${source}"
+#echo "${target}"/`echo "${source}" |egrep -o '[^/]+[.](ISO|iso)'`
+mkdir -p "${target}/`echo "${source}" |egrep -o '[^/]+[.](ISO|iso)'`"
 #rsync -av --recursive --delete -h --times --links --hard-links \
 #			--stats --progress \
 #			"${source}" "${target}"
