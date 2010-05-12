@@ -2,9 +2,8 @@
 RSYNCSOURCE=$1
 RSYNCTARGET=$2
 
-#这里的-d 参数判断$myPath是否存在
-if [ ! -d "$myPath"]; then
-mkdir "$myPath"
+if [ ! -d "$RSYNCTARGET"]; then
+	echo "mkdir"
 fi
 
 
