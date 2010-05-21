@@ -6,5 +6,5 @@
 #echo "--open-files-limit=1234888" | sed -e "s;--open-files-limit=;;" 
 ##»ò 
 #echo "--open-file-limit=1234888"|sed -e "s/--open-file-limit=//" 
-x=echo "$1" | sed -e 's/chart/bbs/;s/pro/grup/'
-echo x
+echo "$1" | sed -e 's/chart/bbs/;s/pro/grup/'
+#echo "x"
