@@ -16,5 +16,5 @@ fi
 #find /usr -name \*.c -o -name "*.h" -exec grep -wnHA5 dirent {} \; > ${script_path}/find.log
 #find / -path "/media" -prune -o -name "*kdiff3*"> ${script_path}/find.log
 #find / \( -path  /sys -o -path /root -o -path /proc -o -path /media/smb -o -path /srv -o -path /opt \) -prune -o -exec grep -wnHA5 eclipse {} \; > ${script_path}/find.log
-#find / \( -path  /sys -o -path /root -o -path /proc -o -path /media/smb -o -path /srv \) -prune -o -type d -name "tomcat6" > ${script_path}/find.log
-find / \( -path  /sys -o -path /root -o -path /proc -o -path /media/smb -o -path /srv \) -prune -o -type f -name "server.xml" > ${script_path}/find.log
+#find / \( -path  /sys -o -path /root -o -path /proc -o -path /media/smb -o -path /srv \) -prune -o -type f -name "server.xml" > ${script_path}/find.log
+find / \( -path  /sys -o -path /root -o -path /proc -o -path /media/smb -o -path /srv \) -prune -o -type d -name "webapps" > ${script_path}/find.log
