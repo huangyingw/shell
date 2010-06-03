@@ -1,5 +1,6 @@
 #! /bin/sh
 dir=/home/huangyingw/abc
+string=hello
 
 if [ -d $dir ];   
 then   
