@@ -6,4 +6,4 @@ if test "${x}"; then
 else
 	script_path=$(dirname `pwd`/$0)
 fi
-echo hello
+return hello
