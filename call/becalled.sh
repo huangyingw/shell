@@ -1,2 +1,2 @@
 #!/bin/bash
-return hello
+echo hello
