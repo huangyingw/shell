@@ -1,14 +1,2 @@
 #! /bin/bash
-
-source=/media/volgrp/av/
-target=/media/back1/av/
-
-rsync -av --recursive --delete -h --times --links --hard-links \
-			--stats --progress \
-			"${source}" "${target}"
-
-case "$1" in
-	s)
-		shutdown -h now
-		;;
-esac
+tar cizvf ${script_path}/Ubuntu.9.4.64.backup.tar.gz /var/cache/apt/archives --exclude=/var/cache/apt/archives/partial/* --exclude=/var/cache/apt/archives/lock
