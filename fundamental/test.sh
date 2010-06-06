@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /bin/bash
 dir=/home/huangyingw/abc
 #string=hello
 string
