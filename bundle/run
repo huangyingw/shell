@@ -1,1 +1,1 @@
-bundle.sh ../Ubuntu.10.4.64.backup.tar.gz > new.sh
+./bundle.sh ../../Ubuntu.10.4.64.backup.tar.gz > new.sh
