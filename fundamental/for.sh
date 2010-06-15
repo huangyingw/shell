@@ -22,3 +22,10 @@ for ((i = 0;i<=5;i++))
 do
   echo "Welcome $i times"
 done
+
+result=1
+while read file ; do
+        result=0
+        echo ${result}
+done < $log_file
+echo ${result}
