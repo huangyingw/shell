@@ -29,3 +29,5 @@ while read file ; do
         echo ${result}
 done < $log_file
 echo ${result}
+
+for ss in `gs|grep -o lib.*`; do grc $ss; done
