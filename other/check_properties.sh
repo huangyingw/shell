@@ -4,8 +4,8 @@ for i in `find /home/huangyingw/cvs/main/ -name "*properties"`
 do
   if [ -f $i ] 
   then 
-    echo "Looking in $i ..."
-    cat $i | grep -inH [a-z0-9]\{4,5\}
+    #echo "Looking in $i ..."
+    cat $i | egrep -w '\<u[a-f0-9]{3}'
     if [ $? == 0 ]
     then
       echo "==> Found in $i"
