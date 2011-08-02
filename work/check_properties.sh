@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for i in `find /home/huangyingw/cvs/main/ -name "*properties"`
+for i in `find $1 -name "*properties"`
 do
   if [ -f $i ] 
   then 
