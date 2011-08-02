@@ -2,7 +2,11 @@
 RSYNCSOURCE=$1
 BASEDIR=$2
 
-rsync -av --recursive --delete --times --links --hard-links \
-			--stats --progress \
-			"${RSYNCSOURCE}" "${BASEDIR}"
+if [ ! -d "$RSYNCTARGET"]; then
+	echo "mkdir"
+fi
 
+#rsync -av --recursive --delete --times --links --hard-links \
+#			--stats --progress \
+#			"${RSYNCSOURCE}" "${BASEDIR}"
+#

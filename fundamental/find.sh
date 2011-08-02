@@ -13,8 +13,11 @@ fi
 #find /usr/ -print0 | grep -FzZ "eclipse\/pluginss" > /media/storage/programming/shell/find.log
 #find / -mtime -1 -type f > /media/storage/programming/shell/find.log
 #find /root/myproject/linux/shell/folder/ -path "*svn" -prune -o -print > ${script_path}/find.log
-#find /usr -name \*.c -o -name "*.h" -exec grep -wnHA5 dirent {} \; > ${script_path}/find.log
 #find / -path "/media" -prune -o -name "*kdiff3*"> ${script_path}/find.log
-#find /media/myproject/git/linux/shell/ -type f -name "*jpg" > ${script_path}/find.log
 #find / \( -path  /sys -o -path /root -o -path /proc -o -path /media/smb -o -path /srv -o -path /opt \) -prune -o -exec grep -wnHA5 eclipse {} \; > ${script_path}/find.log
-find / \( -path  /sys -o -path /root -o -path /proc -o -path /media/smb -o -path /srv \) -prune -o -type d -name "NX" > ${script_path}/find.log
+#find / \( -path  /sys -o -path /root -o -path /proc -o -path /media/smb -o -path /srv \) -prune -o -type d -name "root" > ${script_path}/find.log
+#find /home/yinghuang/myproject/git/ -name "*.c" -o -name "*.h" -o -name "*.cc" -exec grep -wnHA5 -B5 BuildSingleBlockFile {} \; > ${script_path}/find.log
+#find . \( -path .svn \) -prune -o -name *.cc
+#find experimental/users/benchmark/ \( -path .svn \) -prune -o -name *.[c,cc,h] -exec grep -wnH min {} \;
+
+find /home/yinghuang/myproject/git/c_c++/benchmark/ \( -path  /sys -o -path /root -o -path /proc -o -path \.hg -o -path .svn -o -path /srv \) -prune -o -type f -name "bench*"

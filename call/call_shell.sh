@@ -1,3 +1,3 @@
 #!/bin/bash
-variabel=/root/myproject/linux/shell/call/becalled.sh
-echo $variabel
+/root/myproject/git/linux/shell/call/becalled.sh
+#echo $result
